@@ -1,0 +1,39 @@
+\documentclass[titlepage]{report}
+\usepackage[italian]{babel}
+\usepackage[babel]{csquotes}
+\usepackage[a4paper,left=2cm,bottom=2cm,right=2cm,top=2.5cm]{geometry}
+\usepackage[style=numeric-comp,useprefix,hyperref,backend=bibtex,natbib,sorting=none]{biblatex}
+\usepackage{subcaption}
+\usepackage{url}
+\usepackage{graphicx} 			% pacchetto per inserire immagini
+\usepackage{sidecap}			% pacchetto delle didascalie laterali
+\usepackage{setspace}			% pacchetto per modificare interlinea
+\usepackage{textcomp} 			% pacchetto per simboli unicode
+\usepackage[table]{xcolor}		% pacchetto colori per le celle delle tabelle
+\usepackage{float}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage[nowrite,infront,standard,swapnames]{frontespizio}
+
+\begin{document}
+    
+%\hypersetup{
+%	linkbordercolor={1 1 1},
+%}
+
+\begin{frontespizio}
+	\Universita {Brescia}
+	\Logo [3cm]{img/Logo_unibs.pdf}
+	\Dipartimento {Ingengeria dell'Informazione}
+	\Corso [Laurea magistrale]{Ingegneria Elettronica}
+	\Annoaccademico {2021--2022}
+	\Titoletto{Progetto di Sistemi Elettronici Digitali per l'Internet of Things}
+	\Titolo {MIPS-Like Processor}
+	\Sottotitolo{}
+	\NCandidati{Autori}
+	\Candidato [706005]{Luca Brescia}
+	\Candidato [89521]{Simone Pezzottini}
+\end{frontespizio}
+	
+
+\end{document}
