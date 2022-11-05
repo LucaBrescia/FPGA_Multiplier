@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.6)  5 NOV 2022 16:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.6)  5 NOV 2022 16:04
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**./MIPS-Like-Processor.tex
-(MIPS-Like-Processor.tex
+**c:/Progetti/FPGA_Multiplier/Report/MIPS-Like-Processor.tex
+(c:/Progetti/FPGA_Multiplier/Report/MIPS-Like-Processor.tex
 LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-02-24>
-(C:\Program Files\MiKTeX\tex/latex/base\report.cls
+L3 programming layer <2022-02-24> (C:\Program Files\MiKTeX\tex/latex/base\report.cls
 Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
 (C:\Program Files\MiKTeX\tex/latex/base\size10.clo
 File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
@@ -23,14 +23,12 @@ File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
-)
-(C:\Program Files\MiKTeX\tex/generic/babel\babel.sty
+) (C:\Program Files\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2022/02/26 3.73 The Babel package
 \babel@savecnt=\count194
 \U@D=\dimen139
 \l@unhyphenated=\language79
-
-(C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def)
+ (C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count195
 
@@ -38,11 +36,8 @@ Package: babel 2022/02/26 3.73 The Babel package
 * Local config file bblopts.cfg used
 *
 (C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
- babel
-)
-(C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/babel-italian\italian.l
-df
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/babel-italian\italian.ldf
 Language: italian 2020/05/21 v.1.4.04 Italian support for the babel system
 \it@lettering=\count196
 \it@doublequoteactive=\count197
@@ -50,11 +45,9 @@ Language: italian 2020/05/21 v.1.4.04 Italian support for the babel system
 )) (C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count199
-)
-(C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/csquotes\csquotes.sty
+) (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/csquotes\csquotes.sty
 Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
-
-(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+ (C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
@@ -65,14 +58,12 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \csq@maxlvl=\count270
 \csq@tshold=\count271
 \csq@ltx@everypar=\toks17
-
-(C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/csquotes\csquotes.def
+ (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/csquotes\csquotes.def
 File: csquotes.def 2021-02-22 v5.2l csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
-
-(C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/csquotes\csquotes.cfg
+ (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/csquotes\csquotes.cfg
 File: csquotes.cfg 
 )
 Package csquotes Info: Option 'babel' depreciated.
@@ -80,11 +71,9 @@ Package csquotes Info: Option 'babel' depreciated.
 Package csquotes Info: Enabling multilingual quotes.
 ) (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
+ (C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
-(C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+ (C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count272
@@ -99,43 +88,30 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layouthoffset=\dimen146
 \Gm@layoutvoffset=\dimen147
 \Gm@dimlist=\toks18
-
-(C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg))
-(C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.sty
+ (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2022/02/02 v3.17 programmable bibliographies (PK/MW)
-
-(C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/generic/infwarerr\infwarerr.s
-ty
+ (C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-)
-(C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+) (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-)
-(C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+) (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
-
-(C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
-ty
+ (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 )) (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count275
-
-(C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/logreq\logreq.def
+ (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-))
-(C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty
+)) (C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
-)
-(C:\Program Files\MiKTeX\tex/latex/url\url.sty
+) (C:\Program Files\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -197,8 +173,7 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \c@mincompwidth=\count320
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
-
-(C:\Program Files\MiKTeX\tex/latex/biblatex\blx-dm.def
+ (C:\Program Files\MiKTeX\tex/latex/biblatex\blx-dm.def
 File: blx-dm.def 2022/02/02 v3.17 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
@@ -289,14 +264,12 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \localshorteditorwidth=\skip70
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
-
-(C:\Program Files\MiKTeX\tex/latex/biblatex\blx-compat.def
+ (C:\Program Files\MiKTeX\tex/latex/biblatex\blx-compat.def
 File: blx-compat.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load BibTeX backend compatibility...
 Package biblatex Info: ... file 'blx-bibtex.def' found.
-
-(C:\Program Files\MiKTeX\tex/latex/biblatex\blx-bibtex.def
+ (C:\Program Files\MiKTeX\tex/latex/biblatex\blx-bibtex.def
 File: blx-bibtex.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
 
 
@@ -324,34 +297,28 @@ File: biblatex.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load natbib compatibility...
 Package biblatex Info: ... file 'blx-natbib.def' found.
-
-(C:\Program Files\MiKTeX\tex/latex/biblatex\blx-natbib.def
+ (C:\Program Files\MiKTeX\tex/latex/biblatex\blx-natbib.def
 File: blx-natbib.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
-Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
- overwriting.
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined, overwriting.
 )
 Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.bbx' found.
-
-(C:\Program Files\MiKTeX\tex/latex/biblatex/bbx\numeric-comp.bbx
+ (C:\Program Files\MiKTeX\tex/latex/biblatex/bbx\numeric-comp.bbx
 File: numeric-comp.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
-
-(C:\Program Files\MiKTeX\tex/latex/biblatex/bbx\numeric.bbx
+ (C:\Program Files\MiKTeX\tex/latex/biblatex/bbx\numeric.bbx
 File: numeric.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
-
-(C:\Program Files\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
+ (C:\Program Files\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
 File: standard.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count398
 \c@bbx:relatedtotal=\count399
 )))
 Package biblatex Info: Trying to load citation style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.cbx' found.
-
-(C:\Program Files\MiKTeX\tex/latex/biblatex/cbx\numeric-comp.cbx
+ (C:\Program Files\MiKTeX\tex/latex/biblatex/cbx\numeric-comp.cbx
 File: numeric-comp.cbx 2022/02/02 v3.17 biblatex citation style (PK/MW)
 \c@cbx@tempcnta=\count400
 \c@cbx@tempcntb=\count401
@@ -371,17 +338,14 @@ Package biblatex Info: Redefining '\smartcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
-
-(C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.cfg
+ (C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.cfg
 File: biblatex.cfg 
 )
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
-
-(C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty
+ (C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2022-02-24 L3 programming layer (loader) 
-
-(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+ (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count404
 \l__pdf_internal_box=\box50
@@ -390,20 +354,15 @@ Package biblatex Info: ... and expl3
 (biblatex)             2022-02-24 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
-
-(C:\Program Files\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty
-(C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+ (C:\Program Files\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty (C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
 Package: xparse 2022-01-12 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2022/02/02 v3.17 expl3 case changing code for biblatex
-))
-(C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/caption\subcaption.sty
+)) (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/caption\subcaption.sty
 Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
-
-(C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/caption\caption.sty
+ (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2020/10/26 v3.5g Customizing captions (AR)
-
-(C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/caption\caption3.sty
+ (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
 \captionmargin=\dimen148
 \captionmargin@=\dimen149
@@ -421,25 +380,20 @@ Package caption Info: Standard document class detected.
 \c@subtable=\count408
 ) (C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-
-(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+ (C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
-
-(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+ (C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-)
-(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+) (C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
-
-(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+ (C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen155
 \Gin@req@width=\dimen156
-)
-(C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/sidecap\sidecap.sty
+) (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/sidecap\sidecap.sty
 Package: sidecap 2003/06/06 v1.6f SideCap Package (RN/HjG)
 \SC@BOXWD=\dimen157
 \SC@CAPWD=\dimen158
@@ -447,25 +401,19 @@ Package: sidecap 2003/06/06 v1.6f SideCap Package (RN/HjG)
 \SC@tempdimb=\dimen160
 \c@SC@C=\count409
 \SC@BOX=\box51
-)
-(C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/setspace\setspace.sty
+) (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
-)
-(C:\Program Files\MiKTeX\tex/latex/base\textcomp.sty
+) (C:\Program Files\MiKTeX\tex/latex/base\textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-)
-(C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
+) (C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
-
-(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
+ (C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 227.
-
-(C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/colortbl\colortbl.sty
+ (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/colortbl\colortbl.sty
 Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
-
-(C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/tools\array.sty
+ (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/tools\array.sty
 Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
 \col@sep=\dimen161
 \ar@mcellbox=\box52
@@ -488,48 +436,36 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
-)
-(C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/float\float.sty
+) (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count411
 \float@exts=\toks21
 \float@box=\box54
 \@float@everytoks=\toks22
 \@floatcapt=\box55
-)
-(C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty
+) (C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
-
-(C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/generic/kvdefinekeys\kvdefine
-keys.sty
+ (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)
-(C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/generic/pdfescape\pdfescape.s
-ty
+) (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/generic/pdfescape\pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 ) (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-)
-(C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/letltxmacro\letltxmacro
-.sty
+) (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-)
-(C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/auxhook\auxhook.sty
+) (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
 \@linkdim=\dimen163
 \Hy@linkcounter=\count412
 \Hy@pagecounter=\count413
-
-(C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def
+ (C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-)
-(C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
-)
-(C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+) (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count414
@@ -548,14 +484,10 @@ Package hyperref Info: Bookmarks ON on input line 4390.
 \c@Hy@tempcnt=\count415
 LaTeX Info: Redefining \url on input line 4749.
 \XeTeXLinkMargin=\dimen164
-
-(C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/generic/bitset\bitset.sty
+ (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
-
-(C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/generic/bigintcalc\bigintcalc
-.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
-)
+ (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count416
 \Field@Width=\dimen165
@@ -578,34 +510,24 @@ package with kernel methods
 \c@Hfootnote=\count419
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
-
-(C:\Program Files\MiKTeX\tex/latex/hyperref\hpdftex.def
+ (C:\Program Files\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2022-02-21 v7.00n Hyperref driver for pdfTeX
-
-(C:\Program Files\MiKTeX\tex/latex/base\atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
-kage
+ (C:\Program Files\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
 \Fld@listcount=\count420
 \c@bookmark@seq@number=\count421
-
-(C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/rerunfilecheck\rerunfil
-echeck.sty
+ (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
-
-(C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/generic/uniquecounter\uniquec
-ounter.sty
+ (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-86.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
 )
 \Hy@SectionHShift=\skip74
-)
-(C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
-Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
-rs
+) (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and footers
 \f@nch@headwidth=\skip75
 \f@nch@O@elh=\skip76
 \f@nch@O@erh=\skip77
@@ -615,29 +537,22 @@ rs
 \f@nch@O@erf=\skip81
 \f@nch@O@olf=\skip82
 \f@nch@O@orf=\skip83
-)
-(C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/frontespizio\frontespiz
-io.sty
+) (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/frontespizio\frontespizio.sty
 Package: frontespizio 2011/09/21 1.4a (Enrico Gregorio)
-
-(C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/tools\afterpage.sty
+ (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/tools\afterpage.sty
 Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
 \AP@output=\toks23
 \AP@partial=\box56
 \AP@footins=\box57
-)
-(C:\Program Files\MiKTeX\tex/latex/environ\environ.sty
+) (C:\Program Files\MiKTeX\tex/latex/environ\environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
-
-(C:\Program Files\MiKTeX\tex/latex/trimspaces\trimspaces.sty
+ (C:\Program Files\MiKTeX\tex/latex/trimspaces\trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 )
 \@envbody=\toks24
-)
-(C:\Program Files\MiKTeX\tex/generic/iftex\ifpdf.sty
+) (C:\Program Files\MiKTeX\tex/generic/iftex\ifpdf.sty
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
-)
-(C:\Program Files\MiKTeX\tex/generic/iftex\ifxetex.sty
+) (C:\Program Files\MiKTeX\tex/generic/iftex\ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 )
 \front@candtoks=\toks25
@@ -649,8 +564,7 @@ Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
-
-(MIPS-Like-Processor.aux)
+ (MIPS-Like-Processor.aux)
 \openout1 = `MIPS-Like-Processor.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
@@ -731,8 +645,7 @@ Package biblatex Info: Data encoding 'utf8' specified.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'MIPS-Like-Processor.bbl' found.
-
-(MIPS-Like-Processor.bbl)
+ (MIPS-Like-Processor.bbl)
 Package biblatex Info: Reference section=0 on input line 18.
 Package biblatex Info: Reference segment=0 on input line 18.
 Package caption Info: Begin \AtBeginDocument code.
@@ -740,8 +653,7 @@ Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: sidecap package is loaded.
 Package caption Info: End \AtBeginDocument code.
-
-(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+ (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count425
 \scratchdimen=\dimen167
@@ -756,13 +668,10 @@ Package caption Info: End \AtBeginDocument code.
 \everyMPtoPDFconversion=\toks29
 ) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-))
-(C:\Program Files\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+)) (C:\Program Files\MiKTeX\tex/latex/ragged2e\ragged2e.sty
 Package: ragged2e 2021/12/15 v3.1 ragged2e Package
 \CenteringLeftskip=\skip84
 \RaggedLeftLeftskip=\skip85
@@ -780,15 +689,11 @@ Package: ragged2e 2021/12/15 v3.1 ragged2e Package
 \JustifyingParindent=\skip97
 )
 Package hyperref Info: Link coloring OFF on input line 18.
-
-(C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
+ (C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
-
-(C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/refcount\refcount.sty
+ (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/generic/gettitlestring\gettit
-lestring.sty
+) (C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count431
@@ -807,14 +712,12 @@ Package pdftex.def Info: MIPS-Like-Processor-frn.pdf  used on input line 24.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
  [1
 
- <./MIPS-Like-Processor-frn.pdf{C:/Users/Luca Brescia/AppData/Local/MiKTeX/font
-s/map/pdftex/pdftex.map}>] (MIPS-Like-Processor.toc)
+ <./MIPS-Like-Processor-frn.pdf{C:/Users/Luca Brescia/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}>] (MIPS-Like-Processor.toc)
 \tf@toc=\write5
 \openout5 = `MIPS-Like-Processor.toc'.
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.39 \end{document}
@@ -828,18 +731,14 @@ Package logreq Info: Writing requests to 'MIPS-Like-Processor.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 20178 strings out of 478582
- 358243 string characters out of 2854137
+ 20180 strings out of 478582
+ 358348 string characters out of 2854137
  839375 words of memory out of 3000000
  38132 multiletter control sequences out of 15000+600000
  469865 words of font info for 30 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,10n,77p,1858b,1340s stack positions out of 10000i,1000n,20000p,200000b,80000s
-<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Progra
-m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Files/MiKTe
-X/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmr12.pfb>
+ 67i,10n,77p,1891b,1340s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
 Output written on MIPS-Like-Processor.pdf (2 pages, 144972 bytes).
 PDF statistics:
  62 PDF objects out of 1000 (max. 8388607)

@@ -1,6 +1,6 @@
-PWD C:\Progetti\FPGA_Multiplier\Report
+PWD c:\Progetti\FPGA_Multiplier\Report
 INPUT C:\Users\Luca Brescia\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT MIPS-Like-Processor.tex
+INPUT c:\Progetti\FPGA_Multiplier\Report\MIPS-Like-Processor.tex
 OUTPUT MIPS-Like-Processor.log
 INPUT C:\Program Files\MiKTeX\tex\latex\base\report.cls
 INPUT C:\Program Files\MiKTeX\tex\latex\base\report.cls
