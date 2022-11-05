@@ -1,6 +1,6 @@
-PWD c:\Progetti\FPGA_Multiplier\Report
+PWD C:\Progetti\FPGA_Multiplier\Report
 INPUT C:\Users\Luca Brescia\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Progetti\FPGA_Multiplier\Report\MIPS-Like-Processor.tex
+INPUT MIPS-Like-Processor.tex
 OUTPUT MIPS-Like-Processor.log
 INPUT C:\Program Files\MiKTeX\tex\latex\base\report.cls
 INPUT C:\Program Files\MiKTeX\tex\latex\base\report.cls
@@ -845,8 +845,25 @@ INPUT MIPS-Like-Processor-frn.pdf
 INPUT .\MIPS-Like-Processor-frn.pdf
 INPUT .\MIPS-Like-Processor-frn.pdf
 INPUT .\MIPS-Like-Processor-frn.pdf
+INPUT C:\Users\Luca Brescia\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT .\MIPS-Like-Processor.toc
+INPUT MIPS-Like-Processor.toc
+INPUT MIPS-Like-Processor.toc
+OUTPUT MIPS-Like-Processor.toc
 INPUT MIPS-Like-Processor.aux
 INPUT .\MIPS-Like-Processor.out
 INPUT .\MIPS-Like-Processor.out
 INPUT MIPS-Like-Processor.run.xml
 OUTPUT MIPS-Like-Processor.run.xml
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx9.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx9.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
