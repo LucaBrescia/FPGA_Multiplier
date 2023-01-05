@@ -1,206 +1,225 @@
-PWD c:\Progetti\FPGA_Multiplier\provaFRN
-INPUT C:\Users\Luca Brescia\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Progetti\FPGA_Multiplier\provaFRN\frontespizio.tex
+PWD d:\Università\PSED\Progetto\FPGA_Multiplier\provaFRN
+INPUT C:\Users\pezz9\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT d:\Università\PSED\Progetto\FPGA_Multiplier\provaFRN\frontespizio.tex
 OUTPUT frontespizio.log
-INPUT C:\Program Files\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
-INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
-INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
-INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\frontespizio\frontespizio.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\frontespizio\frontespizio.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\frontespizio\frontespizio.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\frontespizio\frontespizio.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\frontespizio\frontespizio.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\frontespizio\frontespizio.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\frontespizio\frontespizio.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\frontespizio\frontespizio.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\frontespizio\frontespizio.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\frontespizio\frontespizio.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\frontespizio\frontespizio.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\tools\afterpage.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\tools\afterpage.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\tools\afterpage.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\tools\afterpage.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\tools\afterpage.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\tools\afterpage.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\tools\afterpage.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\tools\afterpage.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\tools\afterpage.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\tools\afterpage.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\tools\afterpage.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\generic\atbegshi\atbegshi.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\atbegshi\atbegshi.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\atbegshi\atbegshi.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\atbegshi-ltx.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\atbegshi\atbegshi.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\atbegshi\atbegshi.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\atbegshi-ltx.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\atbegshi\atbegshi.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\atbegshi-ltx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\atbegshi-ltx.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\atbegshi\atbegshi.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\atbegshi\atbegshi.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\atbegshi-ltx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\atbegshi-ltx.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\atbegshi\atbegshi.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\atbegshi-ltx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\environ\environ.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\environ\environ.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\environ\environ.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\environ\environ.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\environ\environ.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\environ\environ.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\environ\environ.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\environ\environ.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\environ\environ.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\environ\environ.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\environ\environ.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\trimspaces\trimspaces.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\trimspaces\trimspaces.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\trimspaces\trimspaces.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\trimspaces\trimspaces.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\trimspaces\trimspaces.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\trimspaces\trimspaces.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\trimspaces\trimspaces.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\trimspaces\trimspaces.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\trimspaces\trimspaces.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\trimspaces\trimspaces.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\trimspaces\trimspaces.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifpdf.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifpdf.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifpdf.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifpdf.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifpdf.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifpdf.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifpdf.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifpdf.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifpdf.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifpdf.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifpdf.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\base\report.cls
+INPUT D:\Programmi\MiKTeX\tex\latex\base\report.cls
+INPUT D:\Programmi\MiKTeX\tex\latex\base\report.cls
+INPUT D:\Programmi\MiKTeX\tex\latex\base\report.cls
+INPUT D:\Programmi\MiKTeX\tex\latex\base\report.cls
+INPUT D:\Programmi\MiKTeX\tex\latex\base\report.cls
+INPUT D:\Programmi\MiKTeX\tex\latex\base\report.cls
+INPUT D:\Programmi\MiKTeX\tex\latex\base\report.cls
+INPUT D:\Programmi\MiKTeX\tex\latex\base\report.cls
+INPUT D:\Programmi\MiKTeX\tex\latex\base\report.cls
+INPUT D:\Programmi\MiKTeX\tex\latex\base\report.cls
+INPUT D:\Programmi\MiKTeX\tex\latex\base\size10.clo
+INPUT D:\Programmi\MiKTeX\tex\latex\base\size10.clo
+INPUT D:\Programmi\MiKTeX\tex\latex\base\size10.clo
+INPUT D:\Programmi\MiKTeX\tex\latex\base\size10.clo
+INPUT D:\Programmi\MiKTeX\tex\latex\frontespizio\frontespizio.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\frontespizio\frontespizio.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\frontespizio\frontespizio.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\frontespizio\frontespizio.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\frontespizio\frontespizio.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\frontespizio\frontespizio.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\frontespizio\frontespizio.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\frontespizio\frontespizio.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\frontespizio\frontespizio.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\frontespizio\frontespizio.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\frontespizio\frontespizio.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\tools\afterpage.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\tools\afterpage.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\tools\afterpage.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\tools\afterpage.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\tools\afterpage.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\tools\afterpage.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\tools\afterpage.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\tools\afterpage.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\tools\afterpage.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\tools\afterpage.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\tools\afterpage.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\trig.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\trig.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\trig.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\trig.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\trig.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\trig.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\trig.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\trig.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\trig.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\trig.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics\trig.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT D:\Programmi\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT D:\Programmi\MiKTeX\tex\generic\atbegshi\atbegshi.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\atbegshi\atbegshi.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\atbegshi\atbegshi.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\base\atbegshi-ltx.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\atbegshi\atbegshi.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\atbegshi\atbegshi.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\base\atbegshi-ltx.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\atbegshi\atbegshi.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\base\atbegshi-ltx.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\base\atbegshi-ltx.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\atbegshi\atbegshi.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\atbegshi\atbegshi.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\base\atbegshi-ltx.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\base\atbegshi-ltx.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\atbegshi\atbegshi.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\base\atbegshi-ltx.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\environ\environ.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\environ\environ.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\environ\environ.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\environ\environ.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\environ\environ.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\environ\environ.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\environ\environ.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\environ\environ.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\environ\environ.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\environ\environ.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\environ\environ.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\trimspaces\trimspaces.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\trimspaces\trimspaces.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\trimspaces\trimspaces.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\trimspaces\trimspaces.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\trimspaces\trimspaces.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\trimspaces\trimspaces.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\trimspaces\trimspaces.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\trimspaces\trimspaces.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\trimspaces\trimspaces.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\trimspaces\trimspaces.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\trimspaces\trimspaces.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\iftex\ifpdf.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\iftex\ifpdf.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\iftex\ifpdf.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\iftex\ifpdf.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\iftex\ifpdf.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\iftex\ifpdf.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\iftex\ifpdf.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\iftex\ifpdf.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\iftex\ifpdf.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\iftex\ifpdf.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\iftex\ifpdf.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT D:\Programmi\MiKTeX\tex\generic\iftex\iftex.sty
 INPUT .\frontespizio-frn.tex
 INPUT frontespizio-frn.tex
 INPUT .\frontespizio-frn.tex
 OUTPUT frontespizio-frn.tex
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\Programmi\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\Programmi\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\Programmi\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\Programmi\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\Programmi\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\Programmi\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\Programmi\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\Programmi\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\Programmi\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\Programmi\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\Programmi\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT .\frontespizio.aux
 INPUT frontespizio.aux
 INPUT frontespizio.aux
 OUTPUT frontespizio.aux
-INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT D:\Programmi\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT D:\Programmi\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT D:\Programmi\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT D:\Programmi\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT D:\Programmi\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT D:\Programmi\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT D:\Programmi\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT D:\Programmi\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT D:\Programmi\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT .\frontespizio-frn.pdf
+INPUT frontespizio-frn.pdf
+INPUT .\frontespizio-frn.tex
+INPUT .\frontespizio-frn.tex
+INPUT .\frontespizio-frn.tex
+INPUT .\frontespizio-frn.pdf
+INPUT frontespizio-frn.pdf
+INPUT .\frontespizio-frn.pdf
 OUTPUT frontespizio.pdf
+INPUT .\frontespizio-frn.pdf
+INPUT .\frontespizio-frn.pdf
+INPUT C:\Users\pezz9\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT .\frontespizio-frn.tex
 INPUT frontespizio.aux
+INPUT D:\Programmi\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT D:\Programmi\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT D:\Programmi\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT D:\Programmi\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT D:\Programmi\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT D:\Programmi\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT D:\Programmi\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT D:\Programmi\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
