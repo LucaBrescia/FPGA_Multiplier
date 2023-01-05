@@ -1,2 +1,4 @@
-##Progetto di sistemi elettronici digitali per l'IoT
-New project proposal started 18/09/22
+## IoT digital system project
+
+Implementing 32bit multiplier of a FPGA based system connected with ThingSpeak cloud platform through a RaspberryPi model 2b
+
