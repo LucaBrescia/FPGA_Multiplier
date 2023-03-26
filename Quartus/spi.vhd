@@ -21,7 +21,7 @@ entity spi is
 			);
     Port ( clk : in STD_LOGIC;
            reset : in  STD_LOGIC;
-			  data_in : in  STD_LOGIC_VECTOR (DATA_W-1 downto 0);
+		   data_in : in  STD_LOGIC_VECTOR (DATA_W-1 downto 0);
            data_out : out  STD_LOGIC_VECTOR (DATA_W-1 downto 0)  := (others => '0');
            rd : out  STD_LOGIC := '0';
            wr : out  STD_LOGIC := '0';
@@ -34,19 +34,19 @@ architecture Behavioral of spi is
 --	constant all_ones : std_logic_vector(Nbit-1 downto 0) := (others => '1');
 --	constant all_zeros : std_logic_vector(Nbit-1 downto 0) := (others => '0');
 	constant all_ones : unsigned(Nbit-1 downto 0) := (others => '1');
+	--constant all_ones32 : unsigned(Nbit downto 0) := (others => '1');
 	constant all_zeros : unsigned(Nbit-1 downto 0) := (others => '0');
  
 	signal spi_value: std_logic_vector(DATA_W-1 downto 0) := (others => '0');
 	signal spi_readvalue: std_logic_vector(DATA_W-1 downto 0):= (others => '0');
 	signal sck_synchronizer: std_logic_vector(2 downto 0):= (others => '0');
 
---	signal rdcnt: std_logic_vector(Nbit-1 downto 0) := (others => '0'); --"000";
---	signal wrcnt: std_logic_vector(Nbit-1 downto 0) := (others => '0'); --"000";
+  --signal rdcnt: std_logic_vector(Nbit-1 downto 0) := (others => '0'); --"000";
+  --signal wrcnt: std_logic_vector(Nbit-1 downto 0) := (others => '0'); --"000";
 	signal rdcnt: unsigned(Nbit-1 downto 0) := (others => '0'); --"000";
 	signal wrcnt: unsigned(Nbit-1 downto 0) := (others => '0'); --"000";
 	signal feed_me: std_logic := '0';
 	signal read_me: std_logic := '0';
-
 begin
 process(clk, reset)
 	begin

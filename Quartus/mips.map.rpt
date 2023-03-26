@@ -1,5 +1,5 @@
 Analysis & Synthesis report for mips
-Thu Jan 05 15:53:22 2023
+Sat Feb 04 18:36:12 2023
 Quartus II 32-bit Version 12.0 Build 263 08/02/2012 Service Pack 2 SJ Web Edition
 
 
@@ -36,7 +36,7 @@ applicable agreement for further details.
 +------------------------------------------------------------------------------------+
 ; Analysis & Synthesis Summary                                                       ;
 +------------------------------------+-----------------------------------------------+
-; Analysis & Synthesis Status        ; Failed - Thu Jan 05 15:53:22 2023             ;
+; Analysis & Synthesis Status        ; Failed - Sat Feb 04 18:36:12 2023             ;
 ; Quartus II 32-bit Version          ; 12.0 Build 263 08/02/2012 SP 2 SJ Web Edition ;
 ; Revision Name                      ; mips                                          ;
 ; Top-level Entity Name              ; mips                                          ;
@@ -156,14 +156,33 @@ Parallel compilation was disabled, but you have multiple processors available. E
 Info: *******************************************************************
 Info: Running Quartus II 32-bit Analysis & Synthesis
     Info: Version 12.0 Build 263 08/02/2012 Service Pack 2 SJ Web Edition
-    Info: Processing started: Thu Jan 05 15:53:21 2023
+    Info: Processing started: Sat Feb 04 18:36:11 2023
 Info: Command: quartus_map --read_settings_files=on --write_settings_files=off mips -c mips
 Warning (20028): Parallel compilation is not licensed and has been disabled
-Info (12021): Found 0 design units, including 0 entities, in source file mips.vhd
-Error (12007): Top-level design entity "mips" is undefined
+Info (12021): Found 2 design units, including 1 entities, in source file mips.vhd
+    Info (12022): Found design unit 1: mips-top_arch
+    Info (12023): Found entity 1: mips
+Info (12021): Found 2 design units, including 1 entities, in source file spi.vhd
+    Info (12022): Found design unit 1: spi-Behavioral
+    Info (12023): Found entity 1: spi
+Info (12021): Found 2 design units, including 1 entities, in source file fir.vhd
+    Info (12022): Found design unit 1: fir-rtl
+    Info (12023): Found entity 1: fir
+Info (12021): Found 1 design units, including 0 entities, in source file coeffs_package.vhd
+    Info (12022): Found design unit 1: coeffs_package
+Info (12021): Found 2 design units, including 1 entities, in source file blink_heartbeat.vhd
+    Info (12022): Found design unit 1: blink_heartbeat-Behavioral
+    Info (12023): Found entity 1: blink_heartbeat
+Info (12021): Found 2 design units, including 1 entities, in source file mul16.vhd
+    Info (12022): Found design unit 1: mult_sgn_break_16x16-rtl
+    Info (12023): Found entity 1: mult_sgn_break_16x16
+Info (12021): Found 2 design units, including 1 entities, in source file basic_spi.vhd
+    Info (12022): Found design unit 1: basic_spi-Behavioral
+    Info (12023): Found entity 1: basic_spi
+Error (10381): VHDL Type Mismatch error at mips.vhd(58): indexed name returns a value whose type does not match "std_logic_vector", the type of the target expression File: C:/Progetti/FPGA_Multiplier/Quartus/mips.vhd Line: 58
 Error: Quartus II 32-bit Analysis & Synthesis was unsuccessful. 1 error, 1 warning
-    Error: Peak virtual memory: 351 megabytes
-    Error: Processing ended: Thu Jan 05 15:53:22 2023
+    Error: Peak virtual memory: 362 megabytes
+    Error: Processing ended: Sat Feb 04 18:36:12 2023
     Error: Elapsed time: 00:00:01
     Error: Total CPU time (on all processors): 00:00:01
 

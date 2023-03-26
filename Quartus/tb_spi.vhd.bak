@@ -1,0 +1,130 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+entity tb_spi is
+end tb_spi;
+
+architecture sim of tb_spi is
+  signal clk: std_logic := '0';
+  signal reset: std_logic := '0';
+  signal reset_sim: std_logic := '1';
+  signal SCK: std_logic := '0';
+  signal shift_reg : std_logic := '0';
+  signal MOSI: std_logic := '0';
+  signal MISO: std_logic := '0';
+  signal rd_local: std_logic := '0';
+  signal wr_local: std_logic := '0';
+  signal data_in: std_logic_vector(15 downto 0);
+  signal data_out: std_logic_vector(31 downto 0);
+  signal local_din1 : std_logic_vector(15 downto 0);
+  signal local_din2 : std_logic_vector(15 downto 0);
+  signal local_dout : std_logic_vector(31 downto 0);
+  constant DATA_W: integer := 32;
+  constant Nbit: integer := 6;
+
+
+begin
+  MOSI <= shift_reg;
+  --reset_sim <= wr_local;
+  dut: entity work.spi
+    generic map (
+      DATA_W => DATA_W,
+      Nbit => Nbit
+    )
+    port map (
+      clk => clk,
+      reset => reset_sim,
+      data_in => data_in,
+      data_out => data_out,
+      rd => rd_local,
+      wr => wr_local,
+      SCK => SCK,
+      MOSI => MOSI,
+      MISO => MISO
+    );
+
+  -- Multiply the two inputs
+  mult_inst: entity work.mult_sgn_break_16x16
+    port map (
+      i_clk  => clk,
+      i_rstb => reset,
+      i_ma   => local_din1,
+      i_mb   => local_din2,
+      o_m    => local_dout
+    );
+
+tx: entity work.send_bits
+    generic map (
+      DATA_W => DATA_W,
+      Nbit => Nbit
+    )
+    port map (
+      clk => SCK,
+      reset => reset_sim,
+      bit_da_inviare => data_in,
+      dati_out => shift_reg
+     );
+	 
+  process
+  begin
+    reset <= '1';
+    reset_sim <= '1';
+    wait for 10 ns;
+    reset <= '0';
+    reset_sim <= '0';
+    wait for 10 ns;
+
+    -- invio mcand = 3000 (0x0BB8)
+    data_in <= std_logic_vector(to_unsigned(3000, DATA_W));
+    
+    --wr <= '1';
+    wait until wr_local = '1';
+    wait until wr_local = '0';
+    local_din1 <= data_out(31 downto 16);
+    wait for 10 ns; -- Aggiunto ritardo
+    reset_sim <= '1';
+    wait until SCK = '0';
+    data_in <= std_logic_vector(to_unsigned(2, DATA_W));
+    reset_sim <= '0';
+    --wr <= '0';
+    --wait for 10 ns;
+    -- invio mplier = 2 (0x0002)
+    
+    --wr <= '1';
+    wait until wr_local = '1';
+    wait until wr_local = '0';
+    local_din2 <= data_out(30 downto 15);   
+    wait for 10 ns; -- Aggiunto ritardo
+    reset_sim <= '1';
+    wait until SCK = '0';
+    reset_sim <= '0';
+    -- leggo il risultato
+    --rd <= '1';
+    wait until wr_local = '1';
+    wait for 100 ns;
+    --data_out <= local_dout;
+    -- visualizzo il risultato
+    report "Risultato: " & integer'image(to_integer(unsigned(local_dout)));
+    
+    wait;
+  end process;
+
+  process
+  begin
+    clk <= '0';
+    loop
+      wait for 5 ns;
+      clk <= not clk;
+    end loop;
+  end process;
+  
+  process
+  begin
+    SCK <= '0';
+    loop
+      wait for 50 ns;
+      SCK <= not SCK;
+    end loop;
+  end process;
+end sim;
