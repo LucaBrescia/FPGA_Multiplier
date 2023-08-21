@@ -1,0 +1,129 @@
+-------------------------------------------------
+-- Project : Moltiplicatore a 16bit            --
+-- Author :  Brescia Luca                      -- 
+--           Loda Michele                      --
+--           Pezzottini Simone                 --
+-- Date : AY2022/2023                          --
+-- Company : UniBS                             --
+-- File : top.vhd           		           --
+-------------------------------------------------
+
+
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+
+-- Following library declaration if using
+-- arithmetic functions with Signed or Unsigned values
+use IEEE.NUMERIC_STD.ALL;
+
+entity top is
+	port(
+    CLK : in  STD_LOGIC;
+    RST : in  STD_LOGIC;
+		SW: in std_logic_vector(9 downto 0);
+		KEY: in std_logic_vector(2 downto 0);
+		LEDG: out std_logic_vector(9 downto 0);
+		GPIO_1: inout std_logic_vector(31 downto 0));
+end top;
+
+architecture Behavioral of top is
+  constant DATA_W:      integer := 32;    -- dimensione del dato
+  constant Nbit:        integer := 5;     -- numero di bit per contenere il dato
+ 	constant all_ones : unsigned(Nbit-1 downto 0) := (others => '1');
+ 	signal counter: unsigned(Nbit-1 downto 0) := (others => '0'); --"000";
+	
+	
+
+  -- Definizione dei pin SPI
+  signal SYS_SPI_SCK : std_logic;
+  signal SYS_SPI_MOSI : std_logic;
+  signal SYS_SPI_MISO : std_logic;
+  signal data_in : STD_LOGIC_VECTOR (15 downto 0);
+  signal data_out : STD_LOGIC_VECTOR (31 downto 0);
+  signal ack : STD_LOGIC := '0';
+  signal ack_sent : STD_LOGIC := '0';
+  signal result : STD_LOGIC_VECTOR (31 downto 0);
+
+  signal spi_clk : STD_LOGIC := '0';
+  signal spi_rst : STD_LOGIC := '0';
+  signal spi_data_out : STD_LOGIC_VECTOR (15 downto 0);
+  signal spi_data_in : STD_LOGIC_VECTOR (31 downto 0);
+  signal spi_rd : STD_LOGIC := '0';
+  signal spi_wr : STD_LOGIC := '0';
+  
+begin
+  
+  -- Assegnazione dei pin fisici ai segnali SPI
+  SYS_SPI_SCK <= GPIO_1(7);
+  SYS_SPI_MOSI <= GPIO_1(5);
+  SYS_SPI_MISO <= GPIO_1(3);
+  
+  counter <= (others => '0'); -- Reset counter
+  
+  spi_inst: entity work.spi
+    generic map (
+      DATA_W => DATA_W,
+      Nbit => Nbit
+    )
+    port map (
+      CLK => spi_clk,
+      reset => spi_rst,
+      DATA_IN => spi_data_in,
+      DATA_OUT => spi_data_out,
+      RD => spi_rd,
+      WR => spi_wr,
+      SCK => SYS_SPI_SCK,
+      MOSI => SYS_SPI_MOSI,
+      MISO => SYS_SPI_MISO
+    );
+
+    -- Multiply the two inputs
+    mult_inst: entity work.mult_sgn_break_16x16
+    port map (
+      i_clk  => CLK,
+      i_rstb => RST,
+      i_ma   => spi_data_in(15 downto 0),
+      i_mb   => result(15 downto 0),
+      o_m    => result
+    );
+    
+
+
+  process (CLK, RST)
+  begin
+    if (RST = '1') then
+      spi_clk <= '0';
+      spi_rst <= '1';
+      data_in <= (others => '0');
+      ack_sent <= '0';
+    elsif (rising_edge(CLK)) then
+      spi_clk <= not spi_clk;
+      spi_rst <= RST;
+      
+      if (spi_clk = '1') then
+        if (ack_sent = '0') then
+          if (spi_rd = '1') then -- Data received from master
+            if (counter = "1111") then -- Check if counter reaches 15
+                ack <= '1'; -- Send ACK
+                counter <= (others => '0'); -- Reset counter
+                data_out <= (others => '0'); -- Prepare data to be sent
+                ack_sent <= '1'; -- Set ACK sent flag
+            else
+                ack <= '0'; -- Don't send ACK yet
+                counter <= counter + 1; -- Increment counter
+            end if;
+          else
+            ack <= '0'; -- Don't send ACK if no data received
+          end if;
+        else -- ACK has been sent, send data
+          data_out <= result;
+          ack <= '0'; -- Don't send ACK
+        end if;
+      end if;
+      
+    end if;
+  end process;
+
+  spi_data_in <= data_out;
+
+end Behavioral;

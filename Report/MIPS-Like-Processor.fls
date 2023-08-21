@@ -1,752 +1,836 @@
 PWD c:\Progetti\FPGA_Multiplier\Report
-INPUT C:\Users\Luca Brescia\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT C:\Users\bresc\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
 INPUT c:\Progetti\FPGA_Multiplier\Report\MIPS-Like-Processor.tex
 OUTPUT MIPS-Like-Processor.log
-INPUT C:\Program Files\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
-INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
-INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
-INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
-INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\babel\txtbabel.def
-INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\babel-italian\italian.ldf
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\babel-italian\italian.ldf
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\babel-italian\italian.ldf
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\babel-italian\italian.ldf
-INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\csquotes\csquotes.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\csquotes\csquotes.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\csquotes\csquotes.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\csquotes\csquotes.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\csquotes\csquotes.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\csquotes\csquotes.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\csquotes\csquotes.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\csquotes\csquotes.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\csquotes\csquotes.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\csquotes\csquotes.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\csquotes\csquotes.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\csquotes\csquotes.def
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\csquotes\csquotes.def
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\csquotes\csquotes.def
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\csquotes\csquotes.def
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\csquotes\csquotes.cfg
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\csquotes\csquotes.cfg
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\csquotes\csquotes.cfg
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\csquotes\csquotes.cfg
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.cfg
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.cfg
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.cfg
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\logreq\logreq.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\logreq\logreq.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\logreq\logreq.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\logreq\logreq.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\logreq\logreq.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\logreq\logreq.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\logreq\logreq.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\logreq\logreq.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\logreq\logreq.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\logreq\logreq.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\logreq\logreq.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\logreq\logreq.def
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\logreq\logreq.def
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\logreq\logreq.def
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\logreq\logreq.def
-INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-dm.def
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-dm.def
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-dm.def
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-compat.def
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-compat.def
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-compat.def
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-bibtex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-bibtex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-bibtex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-natbib.def
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-natbib.def
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-natbib.def
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\numeric-comp.bbx
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\numeric-comp.bbx
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\numeric-comp.bbx
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\cbx\numeric-comp.cbx
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\cbx\numeric-comp.cbx
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\cbx\numeric-comp.cbx
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\caption\subcaption.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\caption\subcaption.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\caption\subcaption.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\caption\subcaption.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\caption\subcaption.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\caption\subcaption.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\caption\subcaption.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\caption\subcaption.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\caption\subcaption.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\caption\subcaption.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\caption\subcaption.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\sidecap\sidecap.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\sidecap\sidecap.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\sidecap\sidecap.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\sidecap\sidecap.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\sidecap\sidecap.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\sidecap\sidecap.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\sidecap\sidecap.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\sidecap\sidecap.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\sidecap\sidecap.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\sidecap\sidecap.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\sidecap\sidecap.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\setspace\setspace.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\setspace\setspace.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\setspace\setspace.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\setspace\setspace.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\setspace\setspace.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\setspace\setspace.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\setspace\setspace.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\setspace\setspace.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\setspace\setspace.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\setspace\setspace.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\setspace\setspace.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\colortbl\colortbl.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\colortbl\colortbl.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\colortbl\colortbl.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\colortbl\colortbl.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\colortbl\colortbl.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\colortbl\colortbl.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\colortbl\colortbl.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\colortbl\colortbl.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\colortbl\colortbl.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\colortbl\colortbl.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\colortbl\colortbl.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\color.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hyperref.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hyperref.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hyperref.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hyperref.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hyperref.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hyperref.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hyperref.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hyperref.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hyperref.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hyperref.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hyperref.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\pdfescape\pdfescape.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\pdfescape\pdfescape.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\pdfescape\pdfescape.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\pdfescape\pdfescape.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\pdfescape\pdfescape.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\pdfescape\pdfescape.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\pdfescape\pdfescape.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\pdfescape\pdfescape.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\pdfescape\pdfescape.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\pdfescape\pdfescape.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\pdfescape\pdfescape.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\hycolor\hycolor.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\hycolor\hycolor.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\hycolor\hycolor.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\hycolor\hycolor.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\hycolor\hycolor.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\hycolor\hycolor.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\hycolor\hycolor.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\hycolor\hycolor.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\hycolor\hycolor.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\hycolor\hycolor.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\hycolor\hycolor.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\auxhook\auxhook.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\auxhook\auxhook.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\auxhook\auxhook.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\auxhook\auxhook.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\auxhook\auxhook.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\auxhook\auxhook.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\auxhook\auxhook.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\auxhook\auxhook.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\auxhook\auxhook.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\auxhook\auxhook.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\auxhook\auxhook.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\pd1enc.def
-INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\pd1enc.def
-INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\pd1enc.def
-INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\pd1enc.def
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\intcalc\intcalc.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\intcalc\intcalc.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\intcalc\intcalc.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\intcalc\intcalc.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\intcalc\intcalc.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\intcalc\intcalc.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\intcalc\intcalc.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\intcalc\intcalc.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\intcalc\intcalc.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\intcalc\intcalc.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\intcalc\intcalc.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\etexcmds\etexcmds.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\etexcmds\etexcmds.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\etexcmds\etexcmds.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\etexcmds\etexcmds.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\etexcmds\etexcmds.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\etexcmds\etexcmds.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\etexcmds\etexcmds.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\etexcmds\etexcmds.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\etexcmds\etexcmds.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\etexcmds\etexcmds.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\etexcmds\etexcmds.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\puenc.def
-INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\puenc.def
-INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\puenc.def
-INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\puenc.def
-INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\bitset\bitset.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\bitset\bitset.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\bitset\bitset.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\bitset\bitset.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\bitset\bitset.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\bitset\bitset.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\bitset\bitset.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\bitset\bitset.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\bitset\bitset.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\bitset\bitset.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\bitset\bitset.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\intcalc\intcalc.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\atbegshi\atbegshi.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\atbegshi\atbegshi.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\atbegshi\atbegshi.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\atbegshi-ltx.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\atbegshi\atbegshi.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\atbegshi\atbegshi.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\atbegshi-ltx.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\atbegshi\atbegshi.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\atbegshi-ltx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\atbegshi-ltx.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\atbegshi\atbegshi.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\atbegshi\atbegshi.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\atbegshi-ltx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\atbegshi-ltx.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\atbegshi\atbegshi.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\atbegshi-ltx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hpdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hpdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hpdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hpdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\atveryend\atveryend.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\atveryend\atveryend.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\atveryend\atveryend.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\atveryend-ltx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\atveryend\atveryend.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\atveryend\atveryend.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\atveryend-ltx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\atveryend\atveryend.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\atveryend-ltx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\atveryend-ltx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\atveryend\atveryend.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\atveryend\atveryend.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\atveryend-ltx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\atveryend-ltx.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\atveryend\atveryend.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\atveryend-ltx.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\atveryend\atveryend.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\frontespizio\frontespizio.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\frontespizio\frontespizio.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\frontespizio\frontespizio.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\frontespizio\frontespizio.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\frontespizio\frontespizio.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\frontespizio\frontespizio.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\frontespizio\frontespizio.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\frontespizio\frontespizio.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\frontespizio\frontespizio.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\frontespizio\frontespizio.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\frontespizio\frontespizio.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\tools\afterpage.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\tools\afterpage.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\tools\afterpage.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\tools\afterpage.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\tools\afterpage.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\tools\afterpage.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\tools\afterpage.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\tools\afterpage.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\tools\afterpage.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\tools\afterpage.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\tools\afterpage.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\atbegshi\atbegshi.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\environ\environ.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\environ\environ.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\environ\environ.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\environ\environ.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\environ\environ.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\environ\environ.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\environ\environ.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\environ\environ.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\environ\environ.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\environ\environ.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\environ\environ.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\trimspaces\trimspaces.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\trimspaces\trimspaces.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\trimspaces\trimspaces.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\trimspaces\trimspaces.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\trimspaces\trimspaces.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\trimspaces\trimspaces.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\trimspaces\trimspaces.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\trimspaces\trimspaces.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\trimspaces\trimspaces.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\trimspaces\trimspaces.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\trimspaces\trimspaces.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifpdf.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifpdf.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifpdf.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifpdf.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifpdf.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifpdf.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifpdf.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifpdf.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifpdf.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifpdf.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifpdf.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\babel\txtbabel.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\babel-italian\italian.ldf
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\babel-italian\italian.ldf
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\babel-italian\italian.ldf
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\babel-italian\italian.ldf
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\it\babel-italian.tex
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\it\babel-italian.tex
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\it\babel-italian.tex
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\it\babel-italian.tex
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\it\babel-it.ini
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-bibtex.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-bibtex.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-bibtex.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-natbib.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-natbib.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-natbib.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\numeric-comp.bbx
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\numeric-comp.bbx
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\numeric-comp.bbx
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\numeric-comp.cbx
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\numeric-comp.cbx
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\numeric-comp.cbx
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\sidecap\sidecap.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\sidecap\sidecap.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\sidecap\sidecap.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\sidecap\sidecap.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\sidecap\sidecap.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\sidecap\sidecap.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\sidecap\sidecap.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\sidecap\sidecap.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\sidecap\sidecap.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\sidecap\sidecap.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\sidecap\sidecap.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\atbegshi-ltx.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\atbegshi-ltx.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\atbegshi-ltx.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\atbegshi-ltx.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\atbegshi-ltx.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\atbegshi-ltx.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\atbegshi-ltx.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\atveryend\atveryend.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\atveryend\atveryend.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\atveryend\atveryend.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\atveryend-ltx.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\atveryend\atveryend.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\atveryend\atveryend.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\atveryend-ltx.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\atveryend\atveryend.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\atveryend-ltx.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\atveryend-ltx.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\atveryend\atveryend.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\atveryend\atveryend.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\atveryend-ltx.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\atveryend-ltx.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\atveryend\atveryend.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\base\atveryend-ltx.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\atveryend\atveryend.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\parskip\parskip.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\parskip\parskip.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\parskip\parskip.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\parskip\parskip.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\parskip\parskip.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\parskip\parskip.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\parskip\parskip.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\parskip\parskip.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\parskip\parskip.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\parskip\parskip.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\parskip\parskip.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\frontespizio\frontespizio.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\frontespizio\frontespizio.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\frontespizio\frontespizio.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\frontespizio\frontespizio.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\frontespizio\frontespizio.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\frontespizio\frontespizio.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\frontespizio\frontespizio.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\frontespizio\frontespizio.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\frontespizio\frontespizio.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\frontespizio\frontespizio.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\frontespizio\frontespizio.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\tools\afterpage.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\tools\afterpage.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\tools\afterpage.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\tools\afterpage.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\tools\afterpage.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\tools\afterpage.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\tools\afterpage.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\tools\afterpage.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\tools\afterpage.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\tools\afterpage.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\tools\afterpage.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\environ\environ.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\environ\environ.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\environ\environ.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\environ\environ.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\environ\environ.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\environ\environ.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\environ\environ.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\environ\environ.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\environ\environ.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\environ\environ.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\environ\environ.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\trimspaces\trimspaces.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\trimspaces\trimspaces.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\trimspaces\trimspaces.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\trimspaces\trimspaces.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\trimspaces\trimspaces.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\trimspaces\trimspaces.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\trimspaces\trimspaces.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\trimspaces\trimspaces.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\trimspaces\trimspaces.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\trimspaces\trimspaces.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\trimspaces\trimspaces.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifpdf.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifpdf.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifpdf.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifpdf.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifpdf.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifpdf.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifpdf.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifpdf.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifpdf.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifpdf.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifpdf.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
 INPUT .\MIPS-Like-Processor.aux
 INPUT MIPS-Like-Processor.aux
 INPUT MIPS-Like-Processor.aux
 OUTPUT MIPS-Like-Processor.aux
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\italian.lbx
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\italian.lbx
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\italian.lbx
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\italian.lbx
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\italian.lbx
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\italian.lbx
 OUTPUT MIPS-Like-Processor-blx.bib
 INPUT MIPS-Like-Processor.bbl
 INPUT .\MIPS-Like-Processor.bbl
@@ -754,75 +838,38 @@ INPUT MIPS-Like-Processor.bbl
 INPUT .\MIPS-Like-Processor.bbl
 INPUT .\MIPS-Like-Processor.bbl
 INPUT MIPS-Like-Processor.bbl
-INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\ragged2e\ragged2e.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\ragged2e\ragged2e.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\ragged2e\ragged2e.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\ragged2e\ragged2e.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\ragged2e\ragged2e.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\ragged2e\ragged2e.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\ragged2e\ragged2e.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\ragged2e\ragged2e.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\ragged2e\ragged2e.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\ragged2e\ragged2e.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\ragged2e\ragged2e.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\ragged2e\ragged2e.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\ragged2e\ragged2e.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\nameref.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\nameref.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\nameref.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\nameref.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\nameref.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\nameref.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\nameref.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\nameref.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\nameref.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\nameref.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\nameref.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\refcount\refcount.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\refcount\refcount.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\refcount\refcount.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\refcount\refcount.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\refcount\refcount.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\refcount\refcount.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\refcount\refcount.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\refcount\refcount.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\refcount\refcount.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\refcount\refcount.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\refcount\refcount.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\Luca Brescia\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
 INPUT .\MIPS-Like-Processor.out
 INPUT MIPS-Like-Processor.out
 INPUT .\MIPS-Like-Processor.out
@@ -831,10 +878,10 @@ INPUT .\MIPS-Like-Processor.out
 INPUT MIPS-Like-Processor.out
 INPUT .\MIPS-Like-Processor.out
 INPUT MIPS-Like-Processor.out
+OUTPUT MIPS-Like-Processor.pdf
 INPUT .\MIPS-Like-Processor.out
 INPUT .\MIPS-Like-Processor.out
 OUTPUT MIPS-Like-Processor.out
-OUTPUT MIPS-Like-Processor.pdf
 INPUT .\MIPS-Like-Processor-frn.pdf
 INPUT MIPS-Like-Processor-frn.pdf
 INPUT .\MIPS-Like-Processor-frn.tex
@@ -845,25 +892,58 @@ INPUT MIPS-Like-Processor-frn.pdf
 INPUT .\MIPS-Like-Processor-frn.pdf
 INPUT .\MIPS-Like-Processor-frn.pdf
 INPUT .\MIPS-Like-Processor-frn.pdf
-INPUT C:\Users\Luca Brescia\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\bresc\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT .\MIPS-Like-Processor.toc
 INPUT MIPS-Like-Processor.toc
 INPUT MIPS-Like-Processor.toc
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
 OUTPUT MIPS-Like-Processor.toc
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm
+INPUT .\img\test_raspi_psed_single.pdf
+INPUT .\img\test_raspi_psed_single.pdf
+INPUT img\test_raspi_psed_single.pdf
+INPUT .\img\test_raspi_psed_single.pdf
+INPUT .\img\test_raspi_psed_single.pdf
+INPUT .\img\test_raspi_psed_single.pdf
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbxti10.tfm
 INPUT MIPS-Like-Processor.aux
 INPUT .\MIPS-Like-Processor.out
 INPUT .\MIPS-Like-Processor.out
 INPUT MIPS-Like-Processor.run.xml
 OUTPUT MIPS-Like-Processor.run.xml
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx9.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx9.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\bresc\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Users\bresc\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx9.pfb
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx9.pfb
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbxti10.pfb
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbxti10.pfb
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr5.pfb
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr5.pfb
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
+INPUT C:\Users\bresc\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
