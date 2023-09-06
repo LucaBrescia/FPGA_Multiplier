@@ -5,7 +5,7 @@
 --           Pezzottini Simone                 --
 -- Date : AY2022/2023                          --
 -- Company : UniBS                             --
--- File : tb.vhd           		                 --
+-- File : tb_spi.vhd           		             --
 -------------------------------------------------
 library ieee;
 use ieee.std_logic_1164.all;
