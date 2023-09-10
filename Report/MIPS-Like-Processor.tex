@@ -71,20 +71,18 @@
 \newpage
 
 
-\chapter*{Introduzione}
+\chapter*{Abstract}
 \label{ch:intro}
-\addcontentsline{toc}{chapter}{Introduzione}
+\addcontentsline{toc}{chapter}{Abstract}
 
-	\section{Descrizione generale del progetto}
-	\label{sec:desc_generale}
-		\subsection{Obiettivi della relazione}
-		\label{subsec:obiettivi}
 
 \chapter*{Architettura del sistema}
 \label{ch:architettura}
+\addcontentsline{toc}{chapter}{Architettura del sistema}
 
-	\section{FPGA Cyclone III}
+	\section*{FPGA Cyclone III}
 	\label{sec:fpga}
+	\addcontentsline{toc}{section}{FPGA Cyclone III}
 		L'FPGA Cyclone III EP3C16F484C6, mostrata in figura \ref{fig:FPGA_cycloneIII}, è un dispositivo versatile e potente appartenente alla famiglia di FPGA prodotta da Intel, caratterizzato da specifiche e funzionalità avanzate che lo rendono adatto a diverse applicazioni.
 
 		\begin{itemize}
@@ -100,25 +98,49 @@
 		\begin{figure}[ht!]
 			\centering
 			\includegraphics[scale=0.7]{./img/fpga_cycloneIII.pdf}
-			\caption[FPGA]{FPGA Cyclone III}
+			\caption{FPGA Cyclone III}
 			\label{fig:FPGA_cycloneIII}
 		\end{figure}
 
-	\section{Raspberry Pi Model 2B}
+	\section*{Raspberry Pi Model 2B}
 	\label{sec:raspi_model2b}
+	\addcontentsline{toc}{section}{Raspberry Pi Model 2B}
+		Raspberry Pi Model 2B è una delle piattaforme embedded più conosciute e utilizzate al mondo. Questa scheda è una scelta ideale per una vasta gamma di progetti, in particolare all'Internet delle cose (IoT).
 
-		\begin{figure}[ht!]
+		\begin{figure}[H]
 			\centering
 			\includegraphics[scale=0.6]{./img/rapi2b.png}
-			\caption[Raspi]{Raspberry Pi Model 2B}
+			\caption{Raspberry Pi Model 2B}
 			\label{fig:raspi_model2b}
 		\end{figure}
 
+		Di seguito le sue specifiche:
+		
+		\begin{enumerate}
+			\item \textbf{Processore:} quad-core ARM Cortex-A7 con clock a 900 MHz;
+			
+			\item \textbf{Memoria RAM:}  1 GB di memoria RAM;
+			\item \textbf{Porte USB:}  4 porte USB 2.0;
+			
+			\item \textbf{Ethernet:} integrata;
+			\item \textbf{HDMI:} supporta l'uscita video Full HD (1080p), consentendo la connessione a monitor e televisori;
+			
+			\item \textbf{GPIO (General-Purpose Input/Output):} 40 pin GPIO, che consentono di connettere sensori, attuatori e altri dispositivi per vari progetti;
+			
+			\item \textbf{Alimentazione:} può essere alimentata tramite un adattatore microUSB da 5V;
+			
+			\item \textbf{Sistema Operativo:}  Linux (come Raspbian), Windows 10 IoT Core e altri.
+
+		\end{enumerate}
+
+
 \chapter*{Struttura del moltiplicatore 16x16 bit}
 \label{ch:struttura_moltiplicatore}
+\addcontentsline{toc}{chapter}{Struttura del moltiplicatore 16x16 bit}
 
-	\section{Come funziona l'algoritmo}
+	\section*{Come funziona l'algoritmo}
 	\label{sec:how_it_works}
+	\addcontentsline{toc}{section}{Come funziona l'algoritmo}
 		L'algoritmo di moltiplicazione 16x16 bit, si compone di vari passaggi per ottenere il risultato desiderato.
 		
 		Considerando due operandi \textit{A} e \textit{B} di 16 bit ciascuno, essi verranno scomposti in due parti più piccole, da 8 bit ciascuno come segue: 
@@ -185,8 +207,9 @@
 			\caption{Esempio di moltiplicazione binaria}
 			\label{tab:es_mult_bin}
 		\end{table}
-	\section{Descrizione dell'algoritmo di moltiplicazione}
+	\section*{Descrizione dell'algoritmo di moltiplicazione}
 	\label{sec:algoritmo_moltiplicazione}
+	\addcontentsline{toc}{section}{Descrizione dell'algoritmo di moltiplicazione}
 		L'entity VHDL \textbf{mult\_sgn\_break\_16x16} implementa un moltiplicatore a 16 bit che prende in input due operandi, \textit{i\_ma} e \textit{i\_mb}, e produce in output il risultato della moltiplicazione, \textit{o\_m}, rappresentato su 32 bit.
 
 		Il moltiplicatore utilizza una struttura scomposta per calcolare il prodotto tra i due operandi. Il processo principale, denominato \textit{p\_mult}, è sensibile ai segnali di clock (\textit{i\_clk}) e di reset (\textit{i\_rstb}). Durante la fase di reset, tutti i segnali intermedi vengono inizializzati a zero per garantire un corretto avvio del modulo.
@@ -281,8 +304,9 @@ end rtl;
 		
 		Il modulo VHDL \textbf{mul16} è stato progettato per eseguire moltiplicazioni a 16 bit in modo efficiente e preciso, fornendo un'implementazione hardware ottimizzata per l'FPGA Cyclone III EP3C16F484C6.
 		
-		\subsection{Motivazioni della dimensione dei dati}
+		\subsection*{Motivazioni della dimensione dei dati}
 		\label{subsec:scelta_dimensione_dati}
+		\addcontentsline{toc}{subsection}{Motivazioni della dimensione dei dati}
 			Nel progetto del moltiplicatore a 16 bit, la scelta della dimensione dei dati influisce sull'ottimizzazione delle prestazioni e nell'occupazione delle risorse. La dimensione dei dati si riferisce alla quantità di bit utilizzati per rappresentare i valori di input e output del moltiplicatore.
 
 			Una dimensione di 16 bit permette di gestire una vasta gamma di numeri interi senza introdurre una complessità eccessiva. I dati a 16 bit possono rappresentare valori compresi tra $-2^{15}$ e $2^{15}-1$. Nel contesto di un moltiplicatore, è spesso necessario eseguire operazioni su numeri relativamente piccoli, ma con una precisione sufficiente per evitare overflow o underflow.
@@ -293,9 +317,10 @@ end rtl;
 
 \chapter*{Progettazione e implementazione in VHDL}
 \label{ch:progettazione_vhdl}
-
-	\section{Descrizione del linguaggio VHDL}
+\addcontentsline{toc}{chapter}{Progettazione e implementazione in VHDL}
+	\section*{Descrizione del linguaggio VHDL}
 	\label{sec:desc_vhdl}
+	\addcontentsline{toc}{chapter}{Descrizione del linguaggio VHDL}
 		Il VHDL (\textit{VHSIC Hardware Description Language}) è un linguaggio di descrizione hardware utilizzato per descrivere circuiti digitali complessi.
 
 		Il linguaggio permette di modellare il comportamento e la struttura dei circuiti, consentendo di sviluppare soluzioni hardware in modo efficiente.
@@ -318,8 +343,9 @@ end rtl;
 		Una volta completata la descrizione in VHDL, è possibile eseguire simulazioni per testare il funzionamento del circuito in diverse condizioni. Questo approccio aiuta a individuare errori e problemi prima della fase di implementazione hardware.
 
 		In conclusione, il VHDL è uno strumento potente per la progettazione di circuiti digitali. La sua combinazione di descrizione comportamentale e strutturale, insieme alla capacità di simulazione, lo rende uno strumento essenziale nell'industria dell'elettronica digitale.
-	\section{Codice implementato}
+	\section*{Codice implementato}
 	\label{sec:vhdl_code}
+	\addcontentsline{toc}{section}{Codice implementato}
 		
 		L'architettura \texttt{basic\_mult} rappresenta il top level dell'architettura implementata. Essa costituisce un sistema in cui diverse entità lavorano sinergicamente per realizzare l'obiettivo complessivo del progetto.
 		Gestisce l'interconnessione tra entità, tra cui i componenti personalizzati e i moduli predefiniti fornitici durante il corso.
@@ -521,8 +547,9 @@ begin
 	end process;
 end top_arch;
 		\end{lstlisting}
-		\subsection{Approccio di progettazione}
+		\subsection*{Approccio di progettazione}
 		\label{subsec:approccio_progettazione}
+		\addcontentsline{toc}{subsection}{Approccio di progettazione}
 			La scelta di implementare una macchina a stati per gestire il processo di moltiplicazione all'interno del progetto è motivata dalla necessità di coordinare e controllare le diverse fasi coinvolte nel funzionamento del progetto. La moltiplicazione in sé è un'operazione complessa che richiede diverse fasi di calcolo, sincronizzazione e gestione dei segnali di controllo. Inoltre, in questo progetto viene richiesto il corretto funzionamento della comunicazione SPI, da cui bisogna ottenere i due operandi e inviare successivamente il risultato della loro moltiplicazione.
 
 			La macchina a stati offre un'organizzazione strutturata per gestire queste diverse fasi in modo sequenziale e controllato. Ciascuno stato rappresenta una fase specifica del processo di funzionamento, consentendo una suddivisione chiara e modulare delle operazioni coinvolte. Questo approccio non solo semplifica la progettazione e l'implementazione, ma contribuisce anche a una maggiore comprensione del flusso di lavoro.
@@ -540,14 +567,15 @@ end top_arch;
 
 \chapter*{Simulazione e verifica}
 \label{ch:simulazione_verifica}
-
-	\section{Introduzione alla Simulazione con Altera ModelSim per l'Architecture "basic\_mult"}
-
+\addcontentsline{toc}{chapter}{Simulazione e verifica}
+	\section*{Introduzione alla Simulazione con Altera ModelSim per l'Architecture "basic\_mult"}
+	\label{sec:intro_sim_modelsim}			
+	\addcontentsline{toc}{chapter}{Introduzione alla Simulazione con Altera ModelSim per l'Architecture "basic\_mult"}
 		La simulazione è un passo cruciale nel processo di progettazione hardware, poiché consente di verificare il funzionamento e l'interazione delle diverse componenti del sistema. Nel contesto del progetto basato sull'architecture "basic\_mult", l'obiettivo è quello di realizzare un moltiplicatore a 16 bit. Per verificare l'effettivo funzionamento di tale componente, è stato utilizzato l'ambiente di simulazione Altera ModelSim. \par
 
 		Di seguito viene riportato il codice utilizzato per la creazione del testbench:
 		
-		\begin{lstlisting}[caption={Test bench dell'architettura \textit{basic\_mult}}, label={lst:test_bench}]
+		\begin{lstlisting}[caption={Test bench dell'architettura \textit{basic\_mult}}, label={lst:tb_spi.vhd}]
 -------------------------------------------------
 -- Project : Moltiplicatore a 16bit            --
 -- Author :  Brescia Luca                      -- 
@@ -708,7 +736,8 @@ end sim;
 
 		\end{lstlisting}
 
-		\subsection{Dettagli dello Script di Simulazione}
+		\subsection*{Dettagli dello Script di Simulazione}
+		\addcontentsline{toc}{subsection}{Dettagli dello script di simulazione}
 
 			Lo script di simulazione è stato progettato per simulare il funzionamento della moltiplicazione a 16 bit, utilizzando una serie di componenti simulate che rappresentano il comportamento dei segnali e delle interconnessioni tipiche del sistema reale. Il cuore dello script è rappresentato da istanze delle entity "spi" e "mult\_sgn\_break\_16x16", corrispondenti alle parti di comunicazione SPI e moltiplicazione, rispettivamente. Inoltre, è presente un blocco per la gestione del segnale di clock e della linea di clock SCK.
 
@@ -740,18 +769,16 @@ end sim;
 
 				L'utilizzo di Altera ModelSim come ambiente di simulazione ha permesso di verificare il corretto funzionamento dell'architecture "basic\_mult" in un ambiente controllato e riproducibile. Lo script di simulazione "tb\_spi.vhd" ha consentito di testare diverse operazioni, come la comunicazione SPI e la moltiplicazione a 16 bit, fornendo un'anteprima delle prestazioni e del comportamento dell'architettura prima della sua effettiva implementazione su dispositivi hardware. Va notato che il codice di simulazione è stato creato ad hoc per questo progetto e il suo funzionamento è stato verificato in ambiente ModelSim.
 
-	\section{Tecniche di simulazione utilizzate}
-	\label{sec:tecniche_simulazione}
-		\subsection{Testbench per la verifica del moltiplicatore}
-		\label{subsec:testbench_verifica}
 
 \chapter*{Sintesi e implementazione}
 \label{ch:sintesi_implementazione}
-
+\addcontentsline{toc}{chapter}{Sintesi e implementazione}
 	\section*{Modulo basic\_mult}
 	\label{sec:modulo_basic_mult}
+	\addcontentsline{toc}{section}{Modulo basic\_mult}
 		\subsection*{Fase di implementazione}
 		\label{subsec:basic_mult_implementazione}
+		\addcontentsline{toc}{subsection}{Fase di implementazione}
 			L'architettura del moltiplicatore implementata e riportata di seguito, riceve in input il clock del sistema, mediante \textit{signal CLOCK\_50}, il segnale di reset, mediante \textit{KEY} e segnali di comunicazione, mediante i \textit{GPIO\_1(5)} e \textit{GPIO\_1(3)}. In uscita, pilota i \textit{LEDG} e il \textit{GPIO\_1} corrispondente al \textit{MISO} dell'FPGA.
 
 			\begin{figure}[H]
@@ -869,6 +896,7 @@ end sim;
 
 		\subsection*{Fase di sintesi}
 		\label{subsec:basic_mult_fase_sintesi}
+		\addcontentsline{toc}{subsection}{Fase di sintesi}
 			
 			La vista RTL del moltiplicatore ottenuta da \textit{Quartus} con la compilazione del codice VHDL è la seguente:
 
@@ -923,8 +951,10 @@ end sim;
 
 	\section*{Modulo SPI}
 	\label{subsec:modulo_spi}
+	\addcontentsline{toc}{section}{Modulo SPI}
 		\subsection*{Fase di implementazione}
 		\label{subsec:spi_implementazione}
+		\addcontentsline{toc}{subsection}{Fase di implementazione}
 			Di seguito viene riportata la vista dell'architettura spi implementata, ottenunta mediante \textit{TerosHDL}.
 			
 			\begin{figure}[ht]
@@ -1016,12 +1046,15 @@ end sim;
 
 		\subsection*{Fase di sintesi}
 		\label{subsec:spi_sintesi}
+		\addcontentsline{toc}{subsection}{Fase di sintesi}
 			
-\chapter*{Programmazione di Raspberry Pi tramite MATLAB Simulink}
+\chapter*{Programmazione di RaspberryPi utilizzando MATLAB Simulink}
 \label{ch:programmazione_raspberrypi}
+\addcontentsline{toc}{chapter}{Programmazione di RaspberryPi utilizzando MATLAB Simulink}
 
-	\section{Ruolo di MATLAB Simulink nel progetto}
+	\section*{Ruolo di MATLAB Simulink nel progetto}
 	\label{sec:ruolo_simulink}
+	\addcontentsline{toc}{section}{Ruolo di MATLAB Simulink nel progetto}
 
 		L'integrazione di dispositivi hardware, come il Raspberry Pi, in progetti di ingegneria è un passo cruciale per realizzare soluzioni complesse e interconnesse. Una delle metodologie di programmazione che si è dimostrata efficace e versatile è l'uso del tool "Hardware for RaspberryPi" di MATLAB Simulink.
 
@@ -1044,8 +1077,9 @@ end sim;
 
 		I valori che vengono letti in ingresso al raspberry verranno poi inviati su seriale ethernet utilizzando il protocollo UDP.
 
-	\section{Configurazione e comunicazione con il Raspberry Pi}
+	\section*{Configurazione e comunicazione con Raspberry Pi}
 	\label{sec:configurazione_raspberrypi}
+	\addcontentsline{toc}{section}{Configurazione e comunicazione con RaspberryPi}
 			
 		Per la creazione di un canale di comunicazione tra \textit{RaspberryPi} e la FPGA \textit{Cyclone III} si è utilizzato il protocollo di comunicazione SPI.
 
@@ -1078,8 +1112,9 @@ end sim;
 			\label{fig:wiring}
 		\end{figure}
 
-		\subsection{Funzionamento della Comunicazione SPI}
+		\subsection*{Funzionamento della Comunicazione SPI}
 		\label{subsec:funzionamento_spi_comm}
+		\addcontentsline{toc}{subsection}{Funzionamento della comunicazione SPI}
 			La comunicazione SPI (\textit{Serial Peripheral Interface}) è un protocollo di comunicazione seriale ampiamente utilizzato nell'ambito dell'elettronica embedded. È utilizzato per collegare dispositivi digitali tra loro, consentendo loro di scambiare dati in modo sincrono e affidabile. 
 
 			Il funzionamento della comunicazione SPI si basa su una connessione di tipo master-slave tra dispositivi. In questa configurazione, un dispositivo agisce da "master" e controlla il flusso dei dati, mentre uno o più dispositivi agiscono da "slave" e rispondono alle richieste del master. Il master è responsabile di generare il segnale di clock (SCK) che sincronizza la trasmissione e ricezione dei dati.
@@ -1133,6 +1168,7 @@ end sim;
 
 \chapter*{Visualizzazione del dato in rete}
 \label{ch:visualizzazione_udp}
+\addcontentsline{toc}{chapter}{Visualizzazione del dato in rete}
 	L'implementazione di una comunicazione affidabile e veloce è diventata cruciale in molte applicazioni moderne, spaziando dall'Internet delle Cose (IoT) al controllo industriale. In questo contesto, è emerso un tool fondamentale: il protocollo User Datagram Protocol (UDP) su Ethernet. Questo protocollo permette di trasmettere dati in modo efficiente attraverso reti locali senza l'onere di una connessione stabilita.
 
 	Per abbracciare questa metodologia, è stato creato uno script personalizzato in linguaggio Python, attingendo al suo potenziale nel mondo dell'automazione e delle reti. Questo script è stato progettato per consentire la visualizzazione fluida dei dati attraverso la comunicazione UDP su Ethernet
@@ -1149,28 +1185,28 @@ end sim;
 import socket
 
 def main():
-    # Creazione di un socket UDP
-    udp_socket = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+	# Creazione di un socket UDP
+	udp_socket = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
-    # Selezione di IP e numero di porta da ascoltare
-    ip_address = '0.0.0.0'  # Ascolta su tutte le interfacce disponibili
-    port = 25000
+	# Selezione di IP e numero di porta da ascoltare
+	ip_address = '0.0.0.0'  # Ascolta su tutte le interfacce disponibili
+	port = 25000
 
-    # Associazione del socket all'indirizzo IP e alla porta
-    udp_socket.bind((ip_address, port))
+	# Associazione del socket all'indirizzo IP e alla porta
+	udp_socket.bind((ip_address, port))
 
 	# Feedback di avvio
-    print(f"Ascolto UDP avviato su {ip_address}:{port}")
+	print(f"Ascolto UDP avviato su {ip_address}:{port}")
 
 	# Main loop
-    while True:
-        # Ricezione di dati e IP del mittente
-        data, address = udp_socket.recvfrom(1024)
+	while True:
+		# Ricezione di dati e IP del mittente
+		data, address = udp_socket.recvfrom(1024)
 
-        # Verifica su dati non vuoti prima di stamparli
-        if data and data != b'\x00' * len(data):
-            print(f"Ricevuti {len(data)} byte da {address[0]}:{address[1]}")
-            print(f"Dati ricevuti (RAW): {data.hex()}")  # Stampa dei dati in formato esadecimale (hex)
+		# Verifica su dati non vuoti prima di stamparli
+		if data and data != b'\x00' * len(data):
+			print(f"Ricevuti {len(data)} byte da {address[0]}:{address[1]}")
+			print(f"Dati ricevuti (RAW): {data.hex()}")  # Stampa dei dati in formato esadecimale (hex)
 
 if __name__ == '__main__':
     main()
@@ -1179,27 +1215,90 @@ if __name__ == '__main__':
 
 \chapter*{Risultati sperimentali}
 \label{ch:risultati_sperimentali}
+\addcontentsline{toc}{chapter}{Risultati sperimentali}
 
-	\section{Studio comportamentale}
+	\section*{Studio comportamentale}
 	\label{sec:studio_comportamentale}
+	\addcontentsline{toc}{section}{Studio comportamentale}
+		La simulazione è stata effettuata utilizzando il software \textit{Altera Modelsim} e, in particolare, il file \texttt{tb\_spi.vhd} esposto nel listato \ref{lst:tb_spi.vhd}.
+		La figura \ref*{fig:modelsim_sim_completa}, presenta la simulazione completa di tutti gli stati del sistema.
 
-		\begin{figure}[ht]
+		\begin{figure}[H]
 			\centering
 			\includegraphics[scale=0.5]{./img/simulation.pdf}
 			\caption{Simulazione completa ottenuta con Modelsim}
 			\label{fig:modelsim_sim_completa}
 		\end{figure}
 
-		\subsection{Risultati ottenuti}
-		\label{subsec:risultati}
+		In dettaglio, vengono esposti tutti i \texttt{signal} coinvolti nel processo di moltiplicazione e invio del dato. Infatti, si è simulato l'invio e la ricezione del dato come se fossero stati ottenuti mediante una comunicazione SPI.
+
+		Sempre in riferimento al listato \ref*{lst:tb_spi.vhd}, il periodo di clock dell'FPGA, denominato \texttt{clk\_period}, e il periodo di clock di comunicazione SPI, denominato \texttt{sck\_period}, sono due valori costanti che definiscono i tempi operativi di lavoro. Ovviamente, il periodo di comunicazione deve necessariamente essere maggiore del periodo di lavoro: per la simulazione si è scelto un periodo di clock di 20ns mentre il periodo di comunicazione è stato impostato a 200ns.
+
+		Con questi valori operativi, la simulazione mostrata in figura \ref{fig:modelsim_sim_completa} riporta un tempo di circa 2ms da quando il dato viene inviato su SPI prima che ritorni il dato moltiplicato al Raspberry Pi.
+
+		È importante notare che lo stato \texttt{STATE\_WAIT\_NEW\_DATA} permane nonostante il dato sia già presente. Questo è dovuto al controllo che viene effettuato all'interno della macchina a stati. Con riferimento al listato \ref*{lst:mul16_process}, in particolare alla riga \texttt{108}, il controllo per il passaggio di stato vuole che sia presente il flag \texttt{newdata} (collegato al signal \texttt{feed\_me} dell'entity SPI) e che il signal \texttt{spi\_data\_in} sia diverso da 0.  Tuttavia, poiché il signal \texttt{feed\_me} si aggiorna sul fronte di discesa del clock di comunicazione \texttt{SCK} mentre il segnale \texttt{data\_out} si aggiorna sul fronte di salita successivo del clock di comunicazione. Non avendo il processo \texttt{main\_process} nella sua \textit{sensitivity list} il signal \texttt{spi\_data\_in}, la macchina a stati si aggiorna al signal \texttt{feed\_me} successivo.
+		Questa può essere considerata un imprecisione dell'architettura ma non ne compromette il funzionamento.
+
+		Alla conferma di ricezione del dato, esso viene scomposto nei due operandi e viene effettuato il passaggio di stato della macchina a stati nello stato \texttt{STATE\_START\_MULTIPLY}. Nella figura \ref{fig:modelsim_sim_completa} queste operazioni sono visibili nei signal \texttt{mult\_data\_a} e \texttt{mult\_data\_b} che passano da una condizione \texttt{UNDEFINED} ad un valore determinato, in particolare ai numeri \texttt{2} e \texttt{71} presentati in notazione binaria.
+
+		Successivamente, al termine delle operazioni di moltiplicazione, lo stato passa al valore \texttt{STATE\_MULT\_READY} indice della presenza del dato correttamente moltiplicato e pronto per essere inviato su seriale SPI. È possibile visualizzare il risultato della moltiplicazione in prossimità dello stato corrispondente osservando il signal \texttt{o\_m} oppure il signal \texttt{dut:spi\_data\_out}.
+
+		Infine, al termine dell'invio del dato il sistema passa allo stato \texttt{STATE\_DATA\_SENT} terminando così il suo ciclo operativo, in attesa di un nuovo segnale di reset per ripartire. In questo caso, non è stato possibile visualizzare in simulazione il corretto movimento del signal \texttt{MISO} per problemi di architettura e direzione dei port.
+		Tuttavia, il risultato ottenuto è in linea con i risultati ottenuti per la ricezione del dato in ingresso quindi è possibile sostenere che il tempo impiegato dal sistema al passaggio di stato tra lo stato \texttt{STATE\_MULT\_READY} e lo stato \texttt{STATE\_DATA\_SENT} sia un tempo congruo per l'invio di un dato di 32bit su seriale SPI con periodo di clock SCK di 200ns.
+
+	\section*{Analisi temporale}
+	\label{sec:Analisi_Temporale}
+	\addcontentsline{toc}{section}{Analisi temporale}
+		\begin{figure}[H]
+			\centering
+			\includegraphics[scale=0.5]{./img/sim_zoom_mult.pdf}
+			\caption{Focus della simulazione ottenuta con Modelsim sullo stato di avvio della moltiplicazione}
+			\label{fig:modelsim_sim_completa1}
+		\end{figure}
+
+		\begin{figure}[H]
+			\centering
+			\includegraphics[scale=0.5]{./img/sim_zoom_mult_inside.pdf}
+			\caption{Simulazione dell'entity mult\_16x16\_sign\_break ottenuta con Modelsim}
+			\label{fig:modelsim_sim_completa2}
+		\end{figure}
+
+	\section*{Analisi del funzionamento del sistema con SignalTap Logic Analizer}
+	\label{sec:SignalTap}
+	\addcontentsline{toc}{section}{Analisi del sistema con SignalTap Logic Analizer}
+		In figura \ref{fig:quartus_sim_signaltap} è mostrato l'output dei segnali prodotti dall'FPGA utilizzando l'entity \texttt{basic\_mult}.
+
+		\begin{figure}[H]
+			\centering
+			\includegraphics[scale=0.4]{./img/signaltap_multiply_empty.png}
+			\caption{Simulazione dell'entity basic\_mult ottenuta con SignalTap Logic Analyzer}
+			\label{fig:quartus_sim_signaltap}
+		\end{figure}
+
+		In particolare, il trigger per la visualizzazione è stato impostato sul fronte di salita del segnale \texttt{enable\_clk}.
+		
+		È importante evidenziare anche il cambiamento degli stati del segnale \texttt{mach\_state} e che il risultato ottenuto rispecchi perfettamente la simulazione ottenuta nella sezione \textit{Studio comportamentale}.
+
+		In figura \ref*{fig:quartus_sim_signaltap2} viene riportato il dettaglio della fase di moltiplicazione proponendo i segnali prodotti dall'entity \texttt{mul\_sgn\_break\_16x16}.
+
+		\begin{figure}[H]
+			\centering
+			\includegraphics[scale=0.4]{./img/signaltap_multiply_step_by_step.png}
+			\caption{Simulazione dell'entity mul\_sgn\_break\_16x16 ottenuta con SignalTap Logic Analyzer}
+			\label{fig:quartus_sim_signaltap2}
+		\end{figure}
+
+		Anche in questo caso i risultati ottenuti sono in accordo con i risultati proposti dalla simulazione.
 
 \chapter*{Conclusioni}
 \label{ch:conclusioni}
+\addcontentsline{toc}{chapter}{Conclusioni}
 	
-	\section{Principali conclusioni del lavoro svolto}
-	\label{sec:conclusioni}
-		\subsection{Sviluppi futuri e miglioramenti}
-		\label{subsec:sviluppi_futuri}
+	Visti i risultati ottenuti, il sistema rispetta le specifiche di progetto e riesce a produrre il risultato voluto. Sicuramente è un sistema imperfetto che necessita di qualche accorgimento per essere ottimizzato nel tempismo di produzione del dato. Questo potrebbe essere ottenuto utilizzando meglio i l'analisi dei segnali in gioco, in particolare il \texttt{feed\_me} dell'entity SPI come analizzato in precedenza.
 
+
+\listoffigures
+\listoftables
+\lstlistoflistings
 
 \end{document}

@@ -1,0 +1,41 @@
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\contentsline {chapter}{Abstract}{2}{chapter*.2}%
+\contentsline {chapter}{Architettura del sistema}{3}{chapter*.3}%
+\contentsline {section}{FPGA Cyclone III}{3}{section*.4}%
+\contentsline {section}{Raspberry Pi Model 2B}{4}{section*.6}%
+\contentsline {chapter}{Struttura del moltiplicatore 16x16 bit}{5}{chapter*.8}%
+\contentsline {section}{Come funziona l'algoritmo}{5}{section*.9}%
+\contentsline {section}{Descrizione dell'algoritmo di moltiplicazione}{6}{section*.13}%
+\contentsline {subsection}{Motivazioni della dimensione dei dati}{8}{section*.14}%
+\contentsline {chapter}{Progettazione e implementazione in VHDL}{9}{chapter*.15}%
+\contentsline {chapter}{Descrizione del linguaggio VHDL}{9}{section*.16}%
+\contentsline {section}{Codice implementato}{9}{section*.17}%
+\contentsline {subsection}{Approccio di progettazione}{13}{section*.18}%
+\contentsline {chapter}{Simulazione e verifica}{14}{chapter*.19}%
+\contentsline {chapter}{Introduzione alla Simulazione con Altera ModelSim per l'Architecture "basic\_mult"}{14}{section*.20}%
+\contentsline {subsection}{Dettagli dello script di simulazione}{16}{section*.21}%
+\contentsline {subsubsection}{Configurazione degli input}{16}{section*.22}%
+\contentsline {subsubsection}{Generazione del segnale di clock}{16}{section*.23}%
+\contentsline {subsubsection}{Simulazione della comunicazione SPI}{16}{section*.24}%
+\contentsline {subsubsection}{Simulazione della moltiplicazione}{17}{section*.25}%
+\contentsline {subsubsection}{Gestione dei segnali di controllo}{17}{section*.26}%
+\contentsline {subsubsection}{Visualizzazione dei risultati}{17}{section*.27}%
+\contentsline {subsubsection}{Considerazioni sull'uso di Altera Modelsim}{17}{section*.28}%
+\contentsline {chapter}{Sintesi e implementazione}{18}{chapter*.29}%
+\contentsline {section}{Modulo basic\_mult}{18}{section*.30}%
+\contentsline {subsection}{Fase di implementazione}{18}{section*.31}%
+\contentsline {subsection}{Fase di sintesi}{21}{section*.39}%
+\contentsline {section}{Modulo SPI}{23}{section*.46}%
+\contentsline {subsection}{Fase di implementazione}{23}{section*.47}%
+\contentsline {subsection}{Fase di sintesi}{25}{section*.52}%
+\contentsline {chapter}{Programmazione di RaspberryPi utilizzando MATLAB Simulink}{26}{chapter*.53}%
+\contentsline {section}{Ruolo di MATLAB Simulink nel progetto}{26}{section*.54}%
+\contentsline {section}{Configurazione e comunicazione con RaspberryPi}{27}{section*.56}%
+\contentsline {subsection}{Funzionamento della comunicazione SPI}{27}{section*.59}%
+\contentsline {chapter}{Visualizzazione del dato in rete}{29}{chapter*.62}%
+\contentsline {chapter}{Risultati sperimentali}{31}{chapter*.63}%
+\contentsline {section}{Studio comportamentale}{31}{section*.64}%
+\contentsline {section}{Analisi temporale}{32}{section*.66}%
+\contentsline {section}{Analisi del sistema con SignalTap Logic Analizer}{33}{section*.69}%
+\contentsline {chapter}{Conclusioni}{35}{chapter*.72}%
