@@ -77,7 +77,7 @@
 \addcontentsline{toc}{chapter}{Specifiche di progetto}
 	È richiesto di implementare in FPGA un moltiplicatore di numeri interi a 16bit e di
 	implementare un'interconnessione via SPI con Raspberry pi. La comunicazione SPI deve
-	permettere l'invio di moltiplicatore e moltiplicando da Raspberry verso l'FPGA e l'invio del
+	permettere l'invio di moltiplicando e moltiplicatore da Raspberry verso l'FPGA e l'invio del
 	prodotto ottenuto da tali operandi da FPGA verso RaspberryPi. 
 	RaspberryPi dovrà successivamente il prodotto su seriale ethernet con protocollo UDP verso dispositivi connessi in rete.
 
@@ -146,7 +146,7 @@
 	\section*{Come funziona l'algoritmo}
 	\label{sec:how_it_works}
 	\addcontentsline{toc}{section}{Come funziona l'algoritmo}
-		L'algoritmo di moltiplicazione 16x16 bit, si compone di vari passaggi per ottenere il risultato desiderato.
+		L'algoritmo di moltiplicazione 16x16 bit si compone di vari passaggi per ottenere il risultato desiderato.
 		
 		Considerando due operandi \textit{A} e \textit{B} di 16 bit ciascuno, essi verranno scomposti in due parti più piccole, da 8 bit ciascuno come segue: 
 
@@ -188,7 +188,7 @@
 			\label{fig:multiplier16x16_surfvhdl}
 		\end{figure}
 
-		Una moltiplicazione binaria generalmente è svolta eseguendo una serie di somme e prodotti parziali. Dal punto di vista della logica combinatoria si mette in and il moltiplicando con i diversi bit del moltiplicatore, se il moltiplicatore è composto da n bit si hanno n prodotti parziali potenziali ognuno dei quali richiede una somma per costruire il risultato. Avere in posizioni diverse i bit del moltiplicatore da considerare implica che il moltiplicando deve essere opportunamente "\textit{shiftato}": ogni posizione ha peso doppio, quindi si moltiplica per due e questo comporta lo spostamento del prodotto parziale di una posizione a sinistra per ogni bit in più.
+		Una moltiplicazione binaria generalmente è svolta eseguendo una serie di somme e prodotti parziali. Dal punto di vista della logica combinatoria si mette in \texttt{AND} logica il moltiplicando con i diversi bit del moltiplicatore, se il moltiplicatore è composto da n bit si hanno n prodotti parziali potenziali ognuno dei quali richiede una somma per costruire il risultato. Avere in posizioni diverse i bit del moltiplicatore da considerare implica che il moltiplicando deve essere opportunamente "traslato": ogni posizione ha peso doppio, quindi si moltiplica per due e questo comporta lo spostamento del prodotto parziale di una posizione a sinistra per ogni bit in più.
 		Questo approccio nel caso in cui si stia lavorando con dei numeri binari di grande dimensione
 		comporta uno sforzo computazionale elevato.
 		
@@ -312,7 +312,7 @@ end rtl;
 		\subsection*{Motivazioni della dimensione dei dati}
 		\label{subsec:scelta_dimensione_dati}
 		\addcontentsline{toc}{subsection}{Motivazioni della dimensione dei dati}
-			Nel progetto del moltiplicatore a 16 bit, la scelta della dimensione dei dati influisce sull'ottimizzazione delle prestazioni e nell'occupazione delle risorse. La dimensione dei dati si riferisce alla quantità di bit utilizzati per rappresentare i valori di input e output del moltiplicatore.
+			Nel progetto del moltiplicatore a 16 bit la scelta della dimensione dei dati influisce sull'ottimizzazione delle prestazioni e nell'occupazione delle risorse. La dimensione dei dati si riferisce alla quantità di bit utilizzati per rappresentare i valori di input e output del moltiplicatore.
 
 			Una dimensione di 16 bit permette di gestire una vasta gamma di numeri interi senza introdurre una complessità eccessiva. I dati a 16 bit possono rappresentare valori compresi tra $-2^{15}$ e $2^{15}-1$. Nel contesto di un moltiplicatore, è spesso necessario eseguire operazioni su numeri relativamente piccoli, ma con una precisione sufficiente per evitare overflow o underflow.
 
@@ -555,7 +555,7 @@ end top_arch;
 		\subsection*{Approccio di progettazione}
 		\label{subsec:approccio_progettazione}
 		\addcontentsline{toc}{subsection}{Approccio di progettazione}
-			La scelta di implementare una macchina a stati per gestire il processo di moltiplicazione all'interno del progetto è motivata dalla necessità di coordinare e controllare le diverse fasi coinvolte nel funzionamento del progetto. La moltiplicazione in sé è un'operazione complessa che richiede diverse fasi di calcolo, sincronizzazione e gestione dei segnali di controllo. Inoltre, in questo progetto viene richiesto il corretto funzionamento della comunicazione SPI, da cui bisogna ottenere i due operandi e inviare successivamente il risultato della loro moltiplicazione.
+			La scelta di implementare una macchina a stati per gestire il processo di moltiplicazione all'interno del progetto è motivata dalla necessità di coordinare e controllare le diverse fasi coinvolte nel funzionamento del progetto. La moltiplicazione in sé è un'operazione complessa che richiede diverse fasi di calcolo, sincronizzazione e gestione dei segnali di controllo. In questo progetto viene richiesto il corretto funzionamento della comunicazione SPI, da cui bisogna ottenere i due operandi e inviare successivamente il risultato della loro moltiplicazione.
 
 			La macchina a stati offre un'organizzazione strutturata per gestire queste diverse fasi in modo sequenziale e controllato. Ciascuno stato rappresenta una fase specifica del processo di funzionamento, consentendo una suddivisione chiara e modulare delle operazioni coinvolte. Questo approccio non solo semplifica la progettazione e l'implementazione, ma contribuisce anche a una maggiore comprensione del flusso di lavoro.
 
@@ -576,7 +576,7 @@ end top_arch;
 	\section*{Introduzione alla Simulazione con Altera ModelSim per l'Architecture "basic\_mult"}
 	\label{sec:intro_sim_modelsim}			
 	\addcontentsline{toc}{chapter}{Introduzione alla Simulazione con Altera ModelSim per l'Architecture "basic\_mult"}
-		La simulazione è un passo cruciale nel processo di progettazione hardware, poiché consente di verificare il funzionamento e l'interazione delle diverse componenti del sistema. Nel contesto del progetto basato sull'architecture "basic\_mult", l'obiettivo è quello di realizzare un moltiplicatore a 16 bit. Per verificare l'effettivo funzionamento di tale componente, è stato utilizzato l'ambiente di simulazione Altera ModelSim. \par
+		La simulazione è un passo cruciale nel processo di progettazione hardware, poiché consente di verificare il funzionamento e l'interazione delle diverse componenti del sistema. Nel contesto del progetto basato sull'architecture "basic\_mult" l'obiettivo è quello di realizzare un moltiplicatore a 16 bit. Per verificare l'effettivo funzionamento di tale componente, è stato utilizzato l'ambiente di simulazione Altera ModelSim. \par
 
 		Di seguito viene riportato il codice utilizzato per la creazione del testbench:
 		
@@ -744,35 +744,35 @@ end sim;
 		\subsection*{Dettagli dello Script di Simulazione}
 		\addcontentsline{toc}{subsection}{Dettagli dello script di simulazione}
 
-			Lo script di simulazione è stato progettato per simulare il funzionamento della moltiplicazione a 16 bit, utilizzando una serie di componenti simulate che rappresentano il comportamento dei segnali e delle interconnessioni tipiche del sistema reale. Il cuore dello script è rappresentato da istanze delle entity "spi" e "mult\_sgn\_break\_16x16", corrispondenti alle parti di comunicazione SPI e moltiplicazione, rispettivamente. Inoltre, è presente un blocco per la gestione del segnale di clock e della linea di clock SCK.
+			Lo script di simulazione è stato progettato per simulare il funzionamento della moltiplicazione a 16 bit, utilizzando una serie di componenti simulate che rappresentano il comportamento dei segnali e delle interconnessioni tipiche del sistema reale. Le istanze delle entity \texttt{spi\_inst} e \texttt{mult\_sgn\_break\_16x16} rappresentano rispettivamente le  parti di comunicazione \texttt{SPI} e moltiplicazione. Inoltre, è presente un blocco per la gestione del segnale di clock e della linea di clock \texttt{SCK}.
 
 			\subsubsection{Configurazione degli input}
 
-				Per simulare la moltiplicazione a 16 bit, vengono forniti input appropriati ai componenti. I valori da moltiplicare vengono forniti alle entity tramite le porte di input "i\_ma" e "i\_mb". Gli input vengono preparati e inviati al componente di moltiplicazione "mult\_sgn\_break\_16x16".
+				Per simulare la moltiplicazione a 16 bit, vengono forniti input appropriati ai componenti. I valori da moltiplicare vengono forniti alle entity tramite le porte di input \texttt{i\_ma} e \texttt{i\_mb}. Gli input vengono preparati e inviati al componente di moltiplicazione \texttt{mult\_sgn\_break\_16x16}.
 
 			\subsubsection{Generazione del segnale di clock}
 
-				La simulazione richiede la generazione di un segnale di clock coerente per sincronizzare le operazioni dei componenti. Uno dei processi presenti nello script si occupa di generare il segnale di clock "clk", che alterna i suoi stati secondo un periodo prestabilito.
+				La simulazione richiede la generazione di un segnale di clock coerente per sincronizzare le operazioni dei componenti. Uno dei processi presenti nello script si occupa di generare il segnale di clock \texttt{clk}, che alterna i suoi stati secondo un periodo prestabilito.
 
 			\subsubsection{Simulazione della comunicazione SPI}
 
-				Per simulare la comunicazione SPI, è stata utilizzata l'entity "spi". Viene generata una sequenza di bit da inviare, rappresentata dal segnale "shift\_reg", che viene successivamente trasmesso attraverso le linee MOSI (Master Out Slave In) e MISO (Master In Slave Out). Le operazioni di trasmissione e ricezione dei bit vengono simulate utilizzando il segnale "SCK" come clock per sincronizzare le transizioni.
+				Per simulare la comunicazione \texttt{SPI} è stata utilizzata l'entity \texttt{spi\_inst}. Viene generata una sequenza di bit da inviare, rappresentata dal segnale \texttt{shift\_reg}, che viene successivamente trasmesso attraverso le linee \texttt{MOSI} (Master Out Slave In) e \texttt{MISO} (Master In Slave Out). Le operazioni di trasmissione e ricezione dei bit vengono simulate utilizzando il segnale \texttt{SCK} come clock per sincronizzare le transizioni.
 
 			\subsubsection{Simulazione della moltiplicazione}
 
-				La moltiplicazione a 16 bit è simulata utilizzando l'entity "mult\_sgn\_break\_16x16". Viene fornito un input appropriato, rappresentato dalle variabili "local\_din1" e "local\_din2", alle porte "i\_ma" e "i\_mb" rispettivamente. Il risultato della moltiplicazione viene salvato nel segnale "local\_dout".
+				La moltiplicazione a 16 bit è simulata utilizzando l'entity \texttt{mult\_sgn\_break\_16x16}. Viene fornito un input appropriato rappresentato dalle variabili \texttt{local\_din1} e \texttt{local\_din2}, alle porte \texttt{i\_ma} e \texttt{i\_mb}. Il risultato della moltiplicazione viene salvato nel segnale \texttt{local\_dout}.
 
 			\subsubsection{Gestione dei segnali di controllo}
 
-				I segnali di controllo, come "wr\_local" e "rd\_local", vengono utilizzati per sincronizzare l'invio e la ricezione dei dati tra le diverse componenti simulate. Questi segnali sono utilizzati per controllare i cicli di lettura e scrittura dei dati.
+				I segnali di controllo, come \texttt{wr\_local} e \texttt{rd\_local}, vengono utilizzati per sincronizzare l'invio e la ricezione dei dati tra le diverse componenti simulate. Questi segnali sono utilizzati per controllare i cicli di lettura e scrittura dei dati.
 
 			\subsubsection{Visualizzazione dei risultati}
 
-				Durante la simulazione, i risultati delle operazioni vengono monitorati e visualizzati attraverso l'uso dell'istruzione "report". In particolare, il risultato della moltiplicazione viene convertito in un valore intero e viene visualizzato sulla console di simulazione.
+				Durante la simulazione, i risultati delle operazioni vengono monitorati e visualizzati attraverso l'uso dell'istruzione \texttt{report}. In particolare, il risultato della moltiplicazione viene convertito in un valore intero e viene visualizzato sulla console di simulazione.
 
 			\subsubsection{Considerazioni sull'uso di Altera Modelsim}
 
-				L'utilizzo di Altera ModelSim come ambiente di simulazione ha permesso di verificare il corretto funzionamento dell'architecture "basic\_mult" in un ambiente controllato e riproducibile. Lo script di simulazione "tb\_spi.vhd" ha consentito di testare diverse operazioni, come la comunicazione SPI e la moltiplicazione a 16 bit, fornendo un'anteprima delle prestazioni e del comportamento dell'architettura prima della sua effettiva implementazione su dispositivi hardware. Va notato che il codice di simulazione è stato creato ad hoc per questo progetto e il suo funzionamento è stato verificato in ambiente ModelSim.
+				L'utilizzo di Altera ModelSim come ambiente di simulazione ha permesso di verificare il corretto funzionamento dell'architettura \texttt{basic\_mult} in un ambiente controllato e riproducibile. Lo script di simulazione \textit{tb\_spi.vhd} ha consentito di testare diverse operazioni, come la comunicazione SPI e la moltiplicazione a 16 bit, fornendo un'anteprima delle prestazioni e del comportamento dell'architettura prima della sua effettiva implementazione su dispositivi hardware. Va notato che il codice di simulazione è stato creato ad hoc per questo progetto e il suo funzionamento è stato verificato in ambiente ModelSim.
 
 
 \chapter*{Sintesi e implementazione}
@@ -784,7 +784,7 @@ end sim;
 		\subsection*{Fase di implementazione}
 		\label{subsec:basic_mult_implementazione}
 		\addcontentsline{toc}{subsection}{Fase di implementazione}
-			L'architettura del moltiplicatore implementata e riportata di seguito, riceve in input il clock del sistema, mediante \textit{signal CLOCK\_50}, il segnale di reset, mediante \textit{KEY} e segnali di comunicazione, mediante i \textit{GPIO\_1(5)} e \textit{GPIO\_1(3)}. In uscita, pilota i \textit{LEDG} e il \textit{GPIO\_1} corrispondente al \textit{MISO} dell'FPGA.
+			L'architettura del moltiplicatore implementata e riportata di seguito, riceve in input il clock del sistema mediante \textit{signal CLOCK\_50}, il segnale di reset mediante \textit{KEY} e segnali di comunicazione mediante i \textit{GPIO\_1(5)} e \textit{GPIO\_1(3)}. In uscita pilota i \textit{LEDG} e il \textit{GPIO\_1} corrispondente al \textit{MISO} dell'FPGA.
 
 			\begin{figure}[H]
 				\centering
@@ -1068,15 +1068,15 @@ end sim;
 	\label{sec:ruolo_simulink}
 	\addcontentsline{toc}{section}{Ruolo di MATLAB Simulink nel progetto}
 
-		L'integrazione di dispositivi hardware, come il Raspberry Pi, in progetti di ingegneria è un passo cruciale per realizzare soluzioni complesse e interconnesse. Una delle metodologie di programmazione che si è dimostrata efficace e versatile è l'uso del tool "Hardware for RaspberryPi" di MATLAB Simulink.
+		L'integrazione di dispositivi hardware, come RaspberryPi, in progetti di ingegneria è un passo cruciale per realizzare soluzioni complesse e interconnesse. Una delle metodologie di programmazione che si è dimostrata efficace e versatile è l'uso dello strumento "Hardware for RaspberryPi" di MATLAB Simulink.
 
-		"Hardware for RaspberryPi" è un potente strumento che permette di creare applicazioni personalizzate per il Raspberry Pi in modo grafico. Sfruttando l'approccio a blocchi di Simulink, è possibile progettare e sviluppare in modo rapido algoritmi, controlli e interfacce utente che possono essere implementati direttamente sul Raspberry Pi. Questo tool offre una vasta libreria di blocchi funzionali come il controllo di GPIO, comunicazione con sensori, attuatori e dispositivi esterni. 
+		"Hardware for RaspberryPi" è un potente strumento che permette di creare applicazioni personalizzate per RaspberryPi in modo grafico. Sfruttando l'approccio a blocchi di Simulink è possibile progettare e sviluppare in modo rapido algoritmi, controlli e interfacce utente che possono essere implementati direttamente su RaspberryPi. Questo strumento offre una vasta libreria di blocchi funzionali come il controllo di GPIO, comunicazione con sensori, attuatori e dispositivi esterni. 
 		
-		Un aspetto particolarmente vantaggioso dell'utilizzo di "Hardware for RaspberryPi" è la sua capacità di generare automaticamente il codice C++ ottimizzato per il Raspberry Pi. Ciò significa che dopo aver creato il modello in Simulink, è possibile generare il codice e caricarlo direttamente sul Raspberry Pi, semplificando il processo di deploy e testing.
+		Un aspetto particolarmente vantaggioso dell'utilizzo di "Hardware for RaspberryPi" è la sua capacità di generare automaticamente il codice C++ ottimizzato per RaspberryPi. Ciò significa che dopo aver creato il modello in Simulink è possibile generare il codice e caricarlo direttamente su RaspberryPi, semplificando il processo di deploy e testing.
 		
-		È importante notare che "Hardware for RaspberryPi" non è compatibile con le versioni di MATLAB 2022a e successive. È stato testato con successo su MATLAB 2017b, ma non è stato valutato per versioni intermedie tra 2017b e 2022a. Nonostante non sembri esserci alcun problema di compatibilità con la versione di MATLAB, poiché il tool si installa correttamente, esso non compila il blocco simulink creato.
+		È importante notare che "Hardware for RaspberryPi" non è compatibile con le versioni di MATLAB 2022a e successive. È stato testato con successo su MATLAB 2017b, ma non è stato valutato per versioni intermedie tra 2017b e 2022a. Nonostante non sembri esserci alcun problema di compatibilità con la versione di MATLAB, poiché lo strumento si installa correttamente, esso non compila il blocco simulink creato.
 
-		In questo progetto, si è utilizzato il tool "Hardware for RaspberryPi" per gestire la comunicazione SPI come master, impiegando il blocco "SPI Master Transfer". Questa scelta si è rivelata essenziale per coordinare in modo efficiente la comunicazione tra l'FPGA e il Raspberry Pi, permettendo lo scambio di dati e il controllo dei segnali nel contesto del progetto in corso.
+		In questo progetto si è utilizzato lo strumento "Hardware for RaspberryPi" per gestire la comunicazione SPI come master, impiegando il blocco "SPI Master Transfer". Questa scelta si è rivelata essenziale per coordinare in modo efficiente la comunicazione tra FPGA e RaspberryPi, permettendo lo scambio di dati e il controllo dei segnali nel contesto del progetto in corso.
 
 		\begin{figure}[ht]
 			\centering
@@ -1087,13 +1087,13 @@ end sim;
 
 		Lo schema mostrato in figura \ref{fig:simulink_sch} mostra il funzionamento della comunicazione SPI su RaspberryPi. Esso invia periodicamente il numero $131143$ che è l'unione di due numeri a 16 bit, (0x02 $<<$ 16) $\mid$ 0x47 (corrispondenti ai numeri 2 e 71 in base 10), che saranno il moltiplicando e il moltiplicatore della moltiplicazione che dovrà eseguire l'FPGA. Il risultato poi verrà ritornato da FPGA e sarà un numero a 32 bit, di valore atteso 142 ossia 0x8E.
 
-		I valori che vengono letti in ingresso al raspberry verranno poi inviati su seriale ethernet utilizzando il protocollo UDP.
+		I valori che vengono letti in ingresso a RaspberryPi verranno poi inviati su seriale ethernet utilizzando il protocollo UDP.
 
-	\section*{Configurazione e comunicazione con Raspberry Pi}
+	\section*{Configurazione e comunicazione con RaspberryPi}
 	\label{sec:configurazione_raspberrypi}
 	\addcontentsline{toc}{section}{Configurazione e comunicazione con RaspberryPi}
 			
-		Per la creazione di un canale di comunicazione tra \textit{RaspberryPi} e la FPGA \textit{Cyclone III} si è utilizzato il protocollo di comunicazione SPI.
+		Per la creazione di un canale di comunicazione tra RaspberryPi e la FPGA Cyclone III si è utilizzato il protocollo di comunicazione SPI.
 
 		Di seguito vengono esposti nella tabella \ref{tab:wiring} i collegamenti da effettuare sulle due board, visualizzabili in figura \ref{fig:wiring}:
 
@@ -1133,13 +1133,13 @@ end sim;
 
 			I segnali chiave utilizzati nella comunicazione SPI sono:
 			\begin{itemize}
-			\item \textbf{SCK (\textit{Serial Clock}):} Questo segnale viene generato dal master e utilizzato per sincronizzare la trasmissione e ricezione dei dati tra i dispositivi. I dati vengono campionati sul fronte di salita o discesa del segnale di clock, a seconda della configurazione.
+			\item \textbf{SCK (\textit{Serial Clock}):} Questo segnale viene generato dal master e utilizzato per sincronizzare la trasmissione e ricezione dei dati tra i dispositivi. I dati vengono campionati sul fronte di salita o discesa del segnale di clock, a seconda della configurazione;
 			
-			\item \textbf{MOSI (\textit{Master Output Slave Input}):} Questo è il segnale di uscita del master e di ingresso dello slave. Il master utilizza MOSI per inviare dati agli slave. Quando i dati vengono trasmessi, vengono spostati bit per bit lungo il MOSI, sincronizzati dal segnale di clock.
+			\item \textbf{MOSI (\textit{Master Output Slave Input}):} Questo è il segnale di uscita del master e di ingresso dello slave. Il master utilizza MOSI per inviare dati agli slave. Quando i dati vengono trasmessi, vengono spostati bit per bit lungo il MOSI sincronizzati dal segnale di clock;
 			
-			\item \textbf{MISO (\textit{Master Input Slave Output}):} Questo è il segnale di ingresso del master e di uscita dello slave. Gli slave utilizzano MISO per inviare dati al master. Anche in questo caso, i dati vengono spostati bit per bit lungo il MISO, sincronizzati dal segnale di clock.
+			\item \textbf{MISO (\textit{Master Input Slave Output}):} Questo è il segnale di ingresso del master e di uscita dello slave. Gli slave utilizzano MISO per inviare dati al master. Anche in questo caso, i dati vengono spostati bit per bit lungo il MISO sincronizzati dal segnale di clock;
 			
-			\item \textbf{SS/CS (\textit{Slave Select/Chip Select}):} Questo segnale è utilizzato per selezionare uno specifico slave con cui il master vuole comunicare. Il master può avere più linee SS/CS per comunicare con diversi slave. Nel nostro caso indicato come CE0, ovvero \textit{chip enable 0}
+			\item \textbf{SS/CS (\textit{Slave Select/Chip Select}):} Questo segnale è utilizzato per selezionare uno specifico slave con cui il master vuole comunicare. Il master può avere più linee SS/CS per comunicare con diversi slave. Nel nostro caso indicato come CE0, ovvero \textit{chip enable 0}.
 			\end{itemize}
 
 			Il funzionamento di una trasmissione SPI inizia quando il master seleziona uno specifico slave mediante il segnale SS/CS. Successivamente, il master inizia a inviare i dati lungo il MOSI, sincronizzati dal segnale di clock SCK. Gli slave campionano i dati in arrivo sul fronte di salita o discesa del segnale di clock e li trasmettono al master tramite il segnale MISO.
@@ -1181,15 +1181,15 @@ end sim;
 \chapter*{Visualizzazione del dato in rete}
 \label{ch:visualizzazione_udp}
 \addcontentsline{toc}{chapter}{Visualizzazione del dato in rete}
-	L'implementazione di una comunicazione affidabile e veloce è diventata cruciale in molte applicazioni moderne, spaziando dall'Internet delle Cose (IoT) al controllo industriale. In questo contesto, è emerso un tool fondamentale: il protocollo User Datagram Protocol (UDP) su Ethernet. Questo protocollo permette di trasmettere dati in modo efficiente attraverso reti locali senza l'onere di una connessione stabilita.
+	L'implementazione di una comunicazione affidabile e veloce è diventata cruciale in molte applicazioni moderne, spaziando dall'Internet delle Cose (IoT) al controllo industriale. Per questo contesto viene utilizzato il protocollo User Datagram Protocol (UDP) su Ethernet. Questo protocollo permette di trasmettere dati in modo efficiente attraverso reti locali senza l'onere di una connessione stabilita.
 
-	Per abbracciare questa metodologia, è stato creato uno script personalizzato in linguaggio Python, attingendo al suo potenziale nel mondo dell'automazione e delle reti. Questo script è stato progettato per consentire la visualizzazione fluida dei dati attraverso la comunicazione UDP su Ethernet
+	Per abbracciare questa metodologia è stato creato uno script personalizzato in linguaggio Python attingendo al suo potenziale nel mondo dell'automazione e delle reti. Questo script è stato progettato per consentire la visualizzazione fluida dei dati attraverso la comunicazione UDP su Ethernet.
 
-	Per creare lo script, ho sfruttato la flessibilità e la semplicità di Python per gestire la comunicazione UDP. Ho utilizzato la libreria socket di Python per creare un socket UDP e stabilire un canale di comunicazione tra il mittente e il destinatario. Successivamente, ho implementato il formato di trasmissione dei dati e il meccanismo di ricezione per garantire che i dati vengano correttamente incapsulati e decodificati all'altro capo.
+	Abbiamo sfruttato la flessibilità e la semplicità di Python per gestire la comunicazione UDP. È stata utilizzata la libreria \texttt{socket} di Python per creare un canale UDP e stabilendo una via di comunicazione tra il mittente e il destinatario. Successivamente, si è implementato il formato di trasmissione dei dati e il meccanismo di ricezione per garantire che i dati vengano correttamente incapsulati e decodificati all'altro capo.
 
-	Una caratteristica chiave dello script è la sua adattabilità. Il codice è stato scritto in modo che sia possibile specificare l'indirizzo IP e la porta del destinatario, consentendo la configurazione flessibile della comunicazione tra i dispositivi all'interno della rete. Questa caratteristica permette di integrare lo script in una varietà di contesti e scenari, dalla visualizzazione dei dati a scopi di monitoraggio all'integrazione con applicazioni di controllo.
+	Una caratteristica chiave dello script è la sua adattabilità. Il codice è stato scritto in modo che sia possibile specificare l'indirizzo IP e la porta del destinatario consentendo la configurazione flessibile della comunicazione tra i dispositivi all'interno della rete. Questa caratteristica permette di integrare lo script in una varietà di contesti e scenari: dalla visualizzazione dei dati a scopi di monitoraggio all'integrazione con applicazioni di controllo.
 
-	Va notato che l'utilizzo di questo protocollo è particolarmente adatto per reti locali, ma potrebbe non essere adatto per scenari in cui l'affidabilità della comunicazione è critica, data la sua natura non garantita e la mancanza di conferme di ricezione. Inoltre, è importante sottolineare che lo script è stato creato e testato con successo su versioni di Python anteriori alla 3.10. \par
+	Va notato che l'utilizzo di questo protocollo è particolarmente adatto per reti locali, ma data la mancanza di conferme di ricezione potrebbe non essere adatto per scenari in cui l'affidabilità della comunicazione è critica. Inoltre, è importante sottolineare che lo script è stato creato e testato con successo su versioni di Python anteriori alla 3.10. \par
 
 	Di seguito viene riportato il codice python utilizzato per la lettura dei dati inviati da RaspbberryPi:
 
@@ -1241,7 +1241,7 @@ if __name__ == '__main__':
 	\label{sec:studio_comportamentale}
 	\addcontentsline{toc}{section}{Studio comportamentale}
 		La simulazione è stata effettuata utilizzando il software \textit{Altera Modelsim} e, in particolare, il file \texttt{tb\_spi.vhd} esposto nel listato \ref{lst:tb_spi.vhd}.
-		La figura \ref*{fig:modelsim_sim_completa}, presenta la simulazione completa di tutti gli stati del sistema.
+		La figura \ref*{fig:modelsim_sim_completa} presenta la simulazione completa di tutti gli stati del sistema.
 
 		\begin{figure}[H]
 			\centering
@@ -1314,7 +1314,7 @@ if __name__ == '__main__':
 \label{ch:conclusioni}
 \addcontentsline{toc}{chapter}{Conclusioni}
 	
-	Visti i risultati ottenuti, il sistema rispetta le specifiche di progetto e riesce a produrre il risultato voluto. Sicuramente è un sistema imperfetto che necessita di qualche accorgimento per essere ottimizzato nel tempismo di produzione del dato. Questo potrebbe essere ottenuto utilizzando meglio i l'analisi dei segnali in gioco, in particolare il \texttt{feed\_me} dell'entity SPI come analizzato in precedenza. 
+	Visti i risultati ottenuti, il sistema rispetta le specifiche di progetto e riesce a produrre il risultato voluto. Sicuramente è un sistema imperfetto che necessita di qualche accorgimento per essere ottimizzato nel tempismo di produzione del dato. Ciò potrebbe essere ottenuto utilizzando meglio i l'analisi dei segnali in gioco, in particolare il \texttt{feed\_me} dell'entity SPI come analizzato in precedenza. 
 
 	È sicuramente possibile migliorare l'aspetto implementativo del sistema. Il listato \ref{lst:tb_spi.vhd} presenta alcuni problemi di astrazione che si riscontrano anche in figura \ref{fig:rtl_quartus}. La divisione tra top level e livelli inferiori non è netta come dovrebbe essere da teoria.
 
