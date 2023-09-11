@@ -65,16 +65,21 @@
 \hypersetup{
 	linkbordercolor={1 1 1},
 }
+
 \begin{frontespizio}
 \end{frontespizio}
 \tableofcontents
 \newpage
 
 
-\chapter*{Abstract}
-\label{ch:intro}
-\addcontentsline{toc}{chapter}{Abstract}
-
+\chapter*{Specifiche di progetto}
+\label{ch:specs}
+\addcontentsline{toc}{chapter}{Specifiche di progetto}
+	È richiesto di implementare in FPGA un moltiplicatore di numeri interi a 16bit e di
+	implementare un'interconnessione via SPI con Raspberry pi. La comunicazione SPI deve
+	permettere l'invio di moltiplicatore e moltiplicando da Raspberry verso l'FPGA e l'invio del
+	prodotto ottenuto da tali operandi da FPGA verso RaspberryPi. 
+	RaspberryPi dovrà successivamente il prodotto su seriale ethernet con protocollo UDP verso dispositivi connessi in rete.
 
 \chapter*{Architettura del sistema}
 \label{ch:architettura}
