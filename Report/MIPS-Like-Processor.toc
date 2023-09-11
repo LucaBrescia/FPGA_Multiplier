@@ -29,13 +29,13 @@
 \contentsline {section}{Modulo SPI}{23}{section*.46}%
 \contentsline {subsection}{Fase di implementazione}{23}{section*.47}%
 \contentsline {subsection}{Fase di sintesi}{25}{section*.52}%
-\contentsline {chapter}{Programmazione di RaspberryPi utilizzando MATLAB Simulink}{26}{chapter*.53}%
-\contentsline {section}{Ruolo di MATLAB Simulink nel progetto}{26}{section*.54}%
-\contentsline {section}{Configurazione e comunicazione con RaspberryPi}{27}{section*.56}%
-\contentsline {subsection}{Funzionamento della comunicazione SPI}{27}{section*.59}%
-\contentsline {chapter}{Visualizzazione del dato in rete}{29}{chapter*.62}%
-\contentsline {chapter}{Risultati sperimentali}{31}{chapter*.63}%
-\contentsline {section}{Studio comportamentale}{31}{section*.64}%
-\contentsline {section}{Analisi temporale}{32}{section*.66}%
-\contentsline {section}{Analisi del sistema con SignalTap Logic Analizer}{33}{section*.69}%
-\contentsline {chapter}{Conclusioni}{35}{chapter*.72}%
+\contentsline {chapter}{Programmazione di RaspberryPi utilizzando MATLAB Simulink}{26}{chapter*.54}%
+\contentsline {section}{Ruolo di MATLAB Simulink nel progetto}{26}{section*.55}%
+\contentsline {section}{Configurazione e comunicazione con RaspberryPi}{27}{section*.57}%
+\contentsline {subsection}{Funzionamento della comunicazione SPI}{27}{section*.60}%
+\contentsline {chapter}{Visualizzazione del dato in rete}{29}{chapter*.63}%
+\contentsline {chapter}{Risultati sperimentali}{31}{chapter*.65}%
+\contentsline {section}{Studio comportamentale}{31}{section*.66}%
+\contentsline {section}{Analisi temporale}{32}{section*.68}%
+\contentsline {section}{Analisi del sistema con SignalTap Logic Analizer}{33}{section*.71}%
+\contentsline {chapter}{Conclusioni}{35}{chapter*.74}%

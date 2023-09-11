@@ -14,12 +14,14 @@
 \contentsline {figure}{\numberline {12}{\ignorespaces Quarta parte della vista RTL ottenuta con \textit {Quartus}\relax }}{22}{figure.caption.44}%
 \contentsline {figure}{\numberline {13}{\ignorespaces Vista del top level\relax }}{23}{figure.caption.45}%
 \contentsline {figure}{\numberline {14}{\ignorespaces Architettura modulo spi utilizzato\relax }}{23}{figure.caption.48}%
-\contentsline {figure}{\numberline {15}{\ignorespaces Schema a blocchi simulink implementato\relax }}{26}{figure.caption.55}%
-\contentsline {figure}{\numberline {16}{\ignorespaces Schema di collegamento visivo tra le due schede\relax }}{27}{figure.caption.58}%
-\contentsline {figure}{\numberline {17}{\ignorespaces Esempio di comunicazione spi\relax }}{28}{figure.caption.60}%
-\contentsline {figure}{\numberline {18}{\ignorespaces Diagramma temporale delle modalità di comunicazione SPI\relax }}{28}{figure.caption.61}%
-\contentsline {figure}{\numberline {19}{\ignorespaces Simulazione completa ottenuta con Modelsim\relax }}{31}{figure.caption.65}%
-\contentsline {figure}{\numberline {20}{\ignorespaces Focus della simulazione ottenuta con Modelsim sullo stato di avvio della moltiplicazione\relax }}{32}{figure.caption.67}%
-\contentsline {figure}{\numberline {21}{\ignorespaces Simulazione dell'entity mult\_16x16\_sign\_break ottenuta con Modelsim\relax }}{33}{figure.caption.68}%
-\contentsline {figure}{\numberline {22}{\ignorespaces Simulazione dell'entity basic\_mult ottenuta con SignalTap Logic Analyzer\relax }}{33}{figure.caption.70}%
-\contentsline {figure}{\numberline {23}{\ignorespaces Simulazione dell'entity mul\_sgn\_break\_16x16 ottenuta con SignalTap Logic Analyzer\relax }}{34}{figure.caption.71}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Vista RTL integrale ottenuta con \textit {Quartus} dell'entity SPI\relax }}{25}{figure.caption.53}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Schema a blocchi simulink implementato\relax }}{26}{figure.caption.56}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Schema di collegamento visivo tra le due schede\relax }}{27}{figure.caption.59}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Esempio di comunicazione spi\relax }}{28}{figure.caption.61}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Diagramma temporale delle modalità di comunicazione SPI\relax }}{28}{figure.caption.62}%
+\contentsline {figure}{\numberline {20}{\ignorespaces \textbf {udp\_listener.py} - Output dello script python\relax }}{30}{figure.caption.64}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Simulazione completa ottenuta con Modelsim\relax }}{31}{figure.caption.67}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Focus della simulazione ottenuta con Modelsim sullo stato di avvio della moltiplicazione\relax }}{32}{figure.caption.69}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Simulazione dell'entity mult\_16x16\_sign\_break ottenuta con Modelsim\relax }}{33}{figure.caption.70}%
+\contentsline {figure}{\numberline {24}{\ignorespaces Simulazione dell'entity basic\_mult ottenuta con SignalTap Logic Analyzer\relax }}{33}{figure.caption.72}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Simulazione dell'entity mul\_sgn\_break\_16x16 ottenuta con SignalTap Logic Analyzer\relax }}{34}{figure.caption.73}%

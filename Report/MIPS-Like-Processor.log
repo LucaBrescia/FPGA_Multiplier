@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11.25) (preloaded format=pdflatex 2022.12.3)  10 SEP 2023 23:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11.25) (preloaded format=pdflatex 2022.12.3)  11 SEP 2023 16:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1208,30 +1208,36 @@ Overfull \hbox (10.05962pt too wide) in paragraph at lines 1038--1039
 []\OT1/cmr/m/n/10 Lettura del bit sul-la li-nea \OT1/cmtt/m/n/10 MOSI \OT1/cmr/m/n/10 e col-lo-ca-men-to di es-so nel \OT1/cmtt/m/n/10 LSB \OT1/cmr/m/n/10 di \OT1/cmtt/m/n/10 spi[]readvalue\OT1/cmr/m/n/10 : \OT1/cmtt/m/n/10 spi[]readvalue(0)
  []
 
-[24] [25]
-<./img/test_raspi_psed_single.pdf, id=853, 771.26836pt x 189.96956pt>
+[24]
+<./img/spi_spi_inst.jpg, id=850, 2080.77374pt x 566.115pt>
+File: ./img/spi_spi_inst.jpg Graphic file (type jpg)
+<use ./img/spi_spi_inst.jpg>
+Package pdftex.def Info: ./img/spi_spi_inst.jpg  used on input line 1054.
+(pdftex.def)             Requested size: 436.97539pt x 118.88765pt.
+ [25 <./img/spi_spi_inst.jpg>]
+<./img/test_raspi_psed_single.pdf, id=856, 771.26836pt x 189.96956pt>
 File: ./img/test_raspi_psed_single.pdf Graphic file (type pdf)
 <use ./img/test_raspi_psed_single.pdf>
-Package pdftex.def Info: ./img/test_raspi_psed_single.pdf  used on input line 1071.
+Package pdftex.def Info: ./img/test_raspi_psed_single.pdf  used on input line 1078.
 (pdftex.def)             Requested size: 462.76459pt x 113.9826pt.
  [26
 
  <./img/test_raspi_psed_single.pdf>]
-<./img/link_fpga_raspi.png, id=991, 503.63156pt x 288.3272pt>
+<./img/link_fpga_raspi.png, id=994, 503.63156pt x 288.3272pt>
 File: ./img/link_fpga_raspi.png Graphic file (type png)
 <use ./img/link_fpga_raspi.png>
-Package pdftex.def Info: ./img/link_fpga_raspi.png  used on input line 1110.
+Package pdftex.def Info: ./img/link_fpga_raspi.png  used on input line 1117.
 (pdftex.def)             Requested size: 302.18126pt x 172.99763pt.
  [27 <./img/link_fpga_raspi.png>]
-<./img/SPI_8-bit_circular_transfer.pdf, id=1000, 362.85562pt x 137.08076pt>
+<./img/SPI_8-bit_circular_transfer.pdf, id=1003, 362.85562pt x 137.08076pt>
 File: ./img/SPI_8-bit_circular_transfer.pdf Graphic file (type pdf)
 <use ./img/SPI_8-bit_circular_transfer.pdf>
-Package pdftex.def Info: ./img/SPI_8-bit_circular_transfer.pdf  used on input line 1139.
+Package pdftex.def Info: ./img/SPI_8-bit_circular_transfer.pdf  used on input line 1146.
 (pdftex.def)             Requested size: 181.42737pt x 68.5402pt.
-<./img/SPI_timing_diagram.pdf, id=1001, 306.56598pt x 171.17627pt>
+<./img/SPI_timing_diagram.pdf, id=1004, 306.56598pt x 171.17627pt>
 File: ./img/SPI_timing_diagram.pdf Graphic file (type pdf)
 <use ./img/SPI_timing_diagram.pdf>
-Package pdftex.def Info: ./img/SPI_timing_diagram.pdf  used on input line 1149.
+Package pdftex.def Info: ./img/SPI_timing_diagram.pdf  used on input line 1156.
 (pdftex.def)             Requested size: 229.9239pt x 128.38188pt.
  [28 <./img/SPI_8-bit_circular_transfer.pdf> <./img/SPI_timing_diagram.pdf
 
@@ -1240,42 +1246,48 @@ pdfTeX warning: pdflatex (file ./img/SPI_timing_diagram.pdf): PDF inclusion: mul
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 ) [29
 
-] [30]
+]
+<./img/output_python.png, id=1044, 870.25125pt x 480.29437pt>
+File: ./img/output_python.png Graphic file (type png)
+<use ./img/output_python.png>
+Package pdftex.def Info: ./img/output_python.png  used on input line 1226.
+(pdftex.def)             Requested size: 478.63966pt x 264.1627pt.
+ [30 <./img/output_python.png>]
 
 pdfTeX warning: pdflatex (file ./img/simulation.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./img/simulation.pdf, id=1051, 845.07724pt x 597.55246pt>
+<./img/simulation.pdf, id=1057, 845.07724pt x 597.55246pt>
 File: ./img/simulation.pdf Graphic file (type pdf)
 <use ./img/simulation.pdf>
-Package pdftex.def Info: ./img/simulation.pdf  used on input line 1228.
+Package pdftex.def Info: ./img/simulation.pdf  used on input line 1243.
 (pdftex.def)             Requested size: 422.53758pt x 298.7755pt.
 [31
 
  <./img/simulation.pdf>]
 
 pdfTeX warning: pdflatex (file ./img/sim_zoom_mult.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./img/sim_zoom_mult.pdf, id=1068, 845.07724pt x 597.55246pt>
+<./img/sim_zoom_mult.pdf, id=1074, 845.07724pt x 597.55246pt>
 File: ./img/sim_zoom_mult.pdf Graphic file (type pdf)
 <use ./img/sim_zoom_mult.pdf>
-Package pdftex.def Info: ./img/sim_zoom_mult.pdf  used on input line 1254.
+Package pdftex.def Info: ./img/sim_zoom_mult.pdf  used on input line 1269.
 (pdftex.def)             Requested size: 422.53758pt x 298.7755pt.
 
 
 pdfTeX warning: pdflatex (file ./img/sim_zoom_mult_inside.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./img/sim_zoom_mult_inside.pdf, id=1069, 845.07724pt x 597.55246pt>
+<./img/sim_zoom_mult_inside.pdf, id=1075, 845.07724pt x 597.55246pt>
 File: ./img/sim_zoom_mult_inside.pdf Graphic file (type pdf)
 <use ./img/sim_zoom_mult_inside.pdf>
-Package pdftex.def Info: ./img/sim_zoom_mult_inside.pdf  used on input line 1261.
+Package pdftex.def Info: ./img/sim_zoom_mult_inside.pdf  used on input line 1276.
 (pdftex.def)             Requested size: 422.53758pt x 298.7755pt.
 [32 <./img/sim_zoom_mult.pdf>]
-<./img/signaltap_multiply_empty.png, id=1085, 1120.185pt x 376.90813pt>
+<./img/signaltap_multiply_empty.png, id=1091, 1120.185pt x 376.90813pt>
 File: ./img/signaltap_multiply_empty.png Graphic file (type png)
 <use ./img/signaltap_multiply_empty.png>
-Package pdftex.def Info: ./img/signaltap_multiply_empty.png  used on input line 1273.
+Package pdftex.def Info: ./img/signaltap_multiply_empty.png  used on input line 1288.
 (pdftex.def)             Requested size: 448.06606pt x 150.76057pt.
-<./img/signaltap_multiply_step_by_step.png, id=1086, 1113.15875pt x 371.88937pt>
+<./img/signaltap_multiply_step_by_step.png, id=1092, 1113.15875pt x 371.88937pt>
 File: ./img/signaltap_multiply_step_by_step.png Graphic file (type png)
 <use ./img/signaltap_multiply_step_by_step.png>
-Package pdftex.def Info: ./img/signaltap_multiply_step_by_step.png  used on input line 1286.
+Package pdftex.def Info: ./img/signaltap_multiply_step_by_step.png  used on input line 1301.
 (pdftex.def)             Requested size: 445.25562pt x 148.75311pt.
  [33 <./img/sim_zoom_mult_inside.pdf> <./img/signaltap_multiply_empty.png>] [34 <./img/signaltap_multiply_step_by_step.png>] [35
 
@@ -1306,16 +1318,16 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `MIPS-Like-Processor.out' has not changed.
-(rerunfilecheck)             Checksum: 5E2276E79AB059BC7CB33FB8E6204270;6562.
+(rerunfilecheck)             Checksum: C288EC5B850B78B5BD7691F048532AE6;6562.
 Package logreq Info: Writing requests to 'MIPS-Like-Processor.run.xml'.
 \openout1 = `MIPS-Like-Processor.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34933 strings out of 475281
- 660017 string characters out of 2774065
+ 34951 strings out of 475281
+ 660462 string characters out of 2774065
  1897824 words of memory out of 3000000
- 55270 multiletter control sequences out of 15000+600000
+ 55284 multiletter control sequences out of 15000+600000
  476167 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,14n,94p,1923b,2270s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1323,9 +1335,9 @@ Here is how much of TeX's memory you used:
 pdfTeX warning (dest): name{https://surf-vhdl.com} has been referenced but does not exist, replaced by a fixed one
 
  <C:\Users\bresc\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on MIPS-Like-Processor.pdf (39 pages, 4408798 bytes).
+Output written on MIPS-Like-Processor.pdf (39 pages, 4738768 bytes).
 PDF statistics:
- 1355 PDF objects out of 1440 (max. 8388607)
- 580 named destinations out of 1000 (max. 500000)
- 389 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1365 PDF objects out of 1440 (max. 8388607)
+ 582 named destinations out of 1000 (max. 500000)
+ 399 words of extra memory for PDF output out of 10000 (max. 10000000)
 

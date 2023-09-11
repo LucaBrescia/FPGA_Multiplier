@@ -1047,7 +1047,14 @@ end sim;
 		\subsection*{Fase di sintesi}
 		\label{subsec:spi_sintesi}
 		\addcontentsline{toc}{subsection}{Fase di sintesi}
-			
+			Di seguito viene mostrata la vista RTL dell'entity \texttt{spi\_inst} mostrata nel listato \ref{lst:tb_spi.vhd}.
+
+			\begin{figure}[H]
+				\centering
+				\includegraphics[scale=0.21]{./img/spi_spi_inst.jpg}
+				\caption{Vista RTL integrale ottenuta con \textit{Quartus} dell'entity SPI}
+				\label{fig:rtl_quartus_spi}
+			\end{figure}	
 \chapter*{Programmazione di RaspberryPi utilizzando MATLAB Simulink}
 \label{ch:programmazione_raspberrypi}
 \addcontentsline{toc}{chapter}{Programmazione di RaspberryPi utilizzando MATLAB Simulink}
@@ -1212,7 +1219,15 @@ if __name__ == '__main__':
     main()
 	\end{lstlisting}
 
+	Di seguito viene mostrato l'output prodotto dallo script Python in ascolto al socket UDP.
 
+	\begin{figure}[H]
+		\centering
+		\includegraphics[scale=0.55]{./img/output_python.png}
+		\caption{\textbf{udp\_listener.py} - Output dello script python}
+		\label{fig:udp_listener_output}
+	\end{figure}
+	
 \chapter*{Risultati sperimentali}
 \label{ch:risultati_sperimentali}
 \addcontentsline{toc}{chapter}{Risultati sperimentali}
@@ -1294,7 +1309,11 @@ if __name__ == '__main__':
 \label{ch:conclusioni}
 \addcontentsline{toc}{chapter}{Conclusioni}
 	
-	Visti i risultati ottenuti, il sistema rispetta le specifiche di progetto e riesce a produrre il risultato voluto. Sicuramente è un sistema imperfetto che necessita di qualche accorgimento per essere ottimizzato nel tempismo di produzione del dato. Questo potrebbe essere ottenuto utilizzando meglio i l'analisi dei segnali in gioco, in particolare il \texttt{feed\_me} dell'entity SPI come analizzato in precedenza.
+	Visti i risultati ottenuti, il sistema rispetta le specifiche di progetto e riesce a produrre il risultato voluto. Sicuramente è un sistema imperfetto che necessita di qualche accorgimento per essere ottimizzato nel tempismo di produzione del dato. Questo potrebbe essere ottenuto utilizzando meglio i l'analisi dei segnali in gioco, in particolare il \texttt{feed\_me} dell'entity SPI come analizzato in precedenza. 
+
+	È sicuramente possibile migliorare l'aspetto implementativo del sistema. Il listato \ref{lst:tb_spi.vhd} presenta alcuni problemi di astrazione che si riscontrano anche in figura \ref{fig:rtl_quartus}. La divisione tra top level e livelli inferiori non è netta come dovrebbe essere da teoria.
+
+	Inoltre, lo script python prodotto per la visualizzazione del dato presenta alcune imperfezioni di lettura, ma non essendo l'obiettivo di questo progetto non è stato perfezionato.
 
 
 \listoffigures
