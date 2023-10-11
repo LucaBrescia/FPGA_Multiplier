@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11.25) (preloaded format=pdflatex 2022.12.3)  11 SEP 2023 17:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11.25) (preloaded format=pdflatex 2022.12.3)  18 SEP 2023 16:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1045,14 +1045,15 @@ File: ./img/fpga_cycloneIII.pdf Graphic file (type pdf)
 <use ./img/fpga_cycloneIII.pdf>
 Package pdftex.def Info: ./img/fpga_cycloneIII.pdf  used on input line 105.
 (pdftex.def)             Requested size: 418.09933pt x 252.10416pt.
-<./img/rapi2b.png, id=234, 563.10374pt x 405.76593pt>
+ [3
+
+ <./img/fpga_cycloneIII.pdf>]
+<./img/rapi2b.png, id=247, 563.10374pt x 405.76593pt>
 File: ./img/rapi2b.png Graphic file (type png)
 <use ./img/rapi2b.png>
 Package pdftex.def Info: ./img/rapi2b.png  used on input line 117.
 (pdftex.def)             Requested size: 337.86485pt x 243.46143pt.
- [3
-
- <./img/fpga_cycloneIII.pdf>] [4 <./img/rapi2b.png>]
+ [4 <./img/rapi2b.png>]
 <./img/operand-16-bit.jpeg, id=263, 725.71124pt x 132.495pt>
 File: ./img/operand-16-bit.jpeg Graphic file (type jpg)
 <use ./img/operand-16-bit.jpeg>
@@ -1326,7 +1327,7 @@ Package logreq Info: Writing requests to 'MIPS-Like-Processor.run.xml'.
 Here is how much of TeX's memory you used:
  34951 strings out of 475281
  660462 string characters out of 2774065
- 1898824 words of memory out of 3000000
+ 1897824 words of memory out of 3000000
  55284 multiletter control sequences out of 15000+600000
  476167 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1335,7 +1336,7 @@ Here is how much of TeX's memory you used:
 pdfTeX warning (dest): name{https://surf-vhdl.com} has been referenced but does not exist, replaced by a fixed one
 
  <C:\Users\bresc\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/bresc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on MIPS-Like-Processor.pdf (39 pages, 4739629 bytes).
+Output written on MIPS-Like-Processor.pdf (39 pages, 4739660 bytes).
 PDF statistics:
  1365 PDF objects out of 1440 (max. 8388607)
  582 named destinations out of 1000 (max. 500000)

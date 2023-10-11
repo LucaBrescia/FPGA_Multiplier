@@ -110,7 +110,7 @@
 	\section*{Raspberry Pi Model 2B}
 	\label{sec:raspi_model2b}
 	\addcontentsline{toc}{section}{Raspberry Pi Model 2B}
-		Raspberry Pi Model 2B è una delle piattaforme embedded più conosciute e utilizzate al mondo. Questa scheda è una scelta ideale per una vasta gamma di progetti, in particolare all'Internet delle cose (IoT).
+		Raspberry Pi Model 2B è una delle piattaforme embedded più conosciute e utilizzate al mondo. Questa scheda è una scelta ideale per una vasta gamma di progetti, in particolare per quelli riguardanti l'Internet delle cose (IoT).
 
 		\begin{figure}[H]
 			\centering
@@ -1314,12 +1314,14 @@ if __name__ == '__main__':
 \label{ch:conclusioni}
 \addcontentsline{toc}{chapter}{Conclusioni}
 	
-	Visti i risultati ottenuti, il sistema rispetta le specifiche di progetto e riesce a produrre il risultato voluto. Sicuramente è un sistema imperfetto che necessita di qualche accorgimento per essere ottimizzato nel tempismo di produzione del dato. Ciò potrebbe essere ottenuto utilizzando meglio i l'analisi dei segnali in gioco, in particolare il \texttt{feed\_me} dell'entity SPI come analizzato in precedenza. 
+	Visti i risultati ottenuti, il sistema rispetta le specifiche di progetto e riesce a produrre il risultato voluto. Sicuramente è un sistema imperfetto che necessita di qualche accorgimento per essere ottimizzato nel tempismo di produzione del dato. Ciò potrebbe essere ottenuto utilizzando meglio l'analisi dei segnali in gioco, in particolare il \texttt{feed\_me} dell'entity SPI come analizzato in precedenza. 
 
 	È sicuramente possibile migliorare l'aspetto implementativo del sistema. Il listato \ref{lst:tb_spi.vhd} presenta alcuni problemi di astrazione che si riscontrano anche in figura \ref{fig:rtl_quartus}. La divisione tra top level e livelli inferiori non è netta come dovrebbe essere da teoria.
 
 	Inoltre, lo script python prodotto per la visualizzazione del dato presenta alcune imperfezioni di lettura, ma non essendo l'obiettivo di questo progetto non è stato perfezionato.
 
+	
+	
 
 \listoffigures
 \listoftables
